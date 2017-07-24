@@ -15,11 +15,11 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-    description:
+    description: 
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    description:
+    description: 
 permalink: pretty
