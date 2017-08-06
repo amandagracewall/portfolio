@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  works:
+    title: My work
+    output: true
 defaults:
 - scope:
     path: ''
@@ -15,11 +18,11 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-    description: 
+    description:
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    description: 
+    description:
 permalink: pretty
