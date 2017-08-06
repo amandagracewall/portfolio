@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  {% include head.md %}
+  <body>
+    {% include nav.md %}
+    <div class="content">
+      <section id="about" class="dark" style="background-image: url({{page.about.image}})">
+        <div class="container">
+          <h1>{{page.about.header}}</h1>
+          <hr class="accent">
+          <p class="large">{{page.about.subheader}}</p>
+          <a href="{{page.about['cta link']}}" class="btn btn-outline-primary mt-3">{{page.about.cta}}</a>
+        </div>
+      </section>
+      <div id="work" style="height: 100vh">
+        {% include modules/filters.md %}
+      </div>
+      <div id="blog" style="height: 100vh">
+      </div>
+      <div id="contact" style="height: 100vh">
+      </div>
+    </div>
+    <footer>
+      {% include foot.md %}
+    </footer>
+  </body>
+</html>
