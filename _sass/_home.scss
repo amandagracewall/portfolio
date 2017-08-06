@@ -1,0 +1,42 @@
+#about {
+  background-repeat: no-repeat;
+  background-size: 55% auto;
+  background-position: right 25%;
+
+  @include media-breakpoint-down(md) {
+    background-size: contain;
+    background-position: 160% 25%;
+  }
+  @include media-breakpoint-down(sm) {
+    background-size: contain;
+    background-position: 60vw 25%;
+  }
+  @media (max-width: 500px) {
+    background-size: cover;
+    background-position: 120px 25%;
+
+    p.large {
+      max-width: 200px;
+    }
+  }
+}
+
+.filters {
+  @extend .navbar-custom
+}
+
+.filters {
+  flex-direction: row;
+  overflow: scroll;
+  .navbar-nav {
+    flex-direction: row;
+    .filter {
+      @extend .nav-link
+    }
+    .filter {
+      padding: $nav-link-padding;
+      padding-top: 12px;
+      white-space: nowrap;
+    }
+  }
+}

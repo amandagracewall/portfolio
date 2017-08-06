@@ -1,0 +1,108 @@
+//GENERAL
+html, body {
+  overflow-x: hidden;
+}
+body {
+  padding-top: 50px;
+}
+section {
+  padding: 5rem 0 6rem;
+}
+hr.accent {
+  width: 40px;
+  border: 1px solid $brand-primary;
+  margin: 1rem 0;
+}
+p.large {
+  font-size: 1.2rem;
+}
+.dark {
+  background-color: $brand-inverse;
+  color: $gray-lightest;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+//custom navbar
+.navbar.navbar-custom {
+  padding: 0;
+  height: 50px;
+  background: $gray-lighter;
+  // custom navbar brand
+  .navbar-brand {
+    background: $brand-primary;
+    padding: 10px;
+    width: 50px;
+    transition: .2s;
+    img {
+      height: 30px;
+      display: block;
+      margin: 0 auto;
+    }
+    &:hover {
+      background: darken($brand-primary, 4%);
+      transition: .2s;
+    }
+  }
+  // nav-link positioning fixes
+  .collapse {
+    padding: 0 $navbar-padding-x;
+    height: 100%;
+    .nav-link, .filter {
+      padding-top: 12px;
+    }
+    @include media-breakpoint-down(sm) {
+      background: $gray-lighter;
+      padding: 1.2rem 0;
+      .navbar-nav {
+        padding: 0 1.2rem 1.2rem;
+        background: $gray-lighter;
+      }
+    }
+  }
+  // custom nav-link style
+  .nav-link, .filter {
+    border-top: 2px solid $gray-lighter;
+    color: $gray;
+    transition: .2s;
+    &.active {
+      color: $gray-dark;
+      border-top: 2px solid $brand-primary;
+    }
+  }
+  .navbar-toggler {
+    border: 0;
+    padding: 0 1rem 2px;
+    line-height: 48px;
+    &.navbar-toggler-right {
+      right: 0;
+    }
+  }
+}
+
+//custom button
+.btn {
+  font-family: $font-family-serif;
+  font-weight: normal;
+  font-style: italic;
+}
+
+//smooth headers
+h1, h2, h3, h4, h5, h6 {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+//responsive headers
+@include media-breakpoint-down(sm) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  p.large {
+    font-size: 1rem;
+  }
+}
+
+
+a {
+  transition: .2s;
+}
