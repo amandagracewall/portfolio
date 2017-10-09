@@ -2,16 +2,16 @@
   <div class="container">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="filter active" role="button">view all</a>
+        <a class="filter active" role="button" data-category="">all <span class="hidden-xs-down">experiences</span></a>
       </li>
       <li class="nav-item">
-        <a class="filter" role="button">ui design</a>
+        <a class="filter" role="button" data-category="ui">interactive</a>
       </li>
       <li class="nav-item">
-        <a class="filter" role="button">full-stack development</a>
+        <a class="filter" role="button" data-category="viz">visual</a>
       </li>
       <li class="nav-item">
-        <a class="filter" role="button">info visualisation</a>
+        <a class="filter" role="button" data-category="info">info<span class="hidden-xs-down">rmation</span></a>
       </li>
     </ul>
   </div>

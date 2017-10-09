@@ -6,8 +6,40 @@ body {
   padding-top: 50px;
 }
 section {
-  padding: 5rem 0 6rem;
+  padding-top: 5rem;
+  padding-bottom: 6rem;
+  @include media-breakpoint-down(sm) {
+    &:not(.hero) {
+      padding-top: 3rem;
+      padding-bottom: 4rem;
+    }
+  }
 }
+
+.navbar, .breadcrumb {
+  font-family: $font-family-sans-serif;
+  font-size: .9rem;
+  a {
+    font-style: normal;
+    text-decoration: none;
+  }
+}
+
+.subheader {
+  width: 100%;
+  display: table;
+  background: darken($gray-lighter, 2%);
+}
+
+.h1 {
+  @extend h1;
+}
+
+.text-black {
+  color: $black;
+}
+
+
 hr.accent {
   width: 40px;
   border: 1px solid $brand-primary;
@@ -22,6 +54,10 @@ p.large {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.bg-white {
+  background: #fefefe;
+}
+
 //custom navbar
 .navbar.navbar-custom {
   padding: 0;
@@ -39,7 +75,7 @@ p.large {
       margin: 0 auto;
     }
     &:hover {
-      background: darken($brand-primary, 4%);
+      background: lighten($brand-primary, 15%);
       transition: .2s;
     }
   }
@@ -92,17 +128,87 @@ h1, h2, h3, h4, h5, h6 {
   -moz-osx-font-smoothing: grayscale;
 }
 
+h2 {
+  font-family: $font-family-sans-serif;
+}
+
 //responsive headers
 @include media-breakpoint-down(sm) {
   h1 {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
+    @media (max-width: 359px) {
+      font-size: 1.6rem;
+    }
   }
-  p.large {
-    font-size: 1rem;
+  h2 {
+    font-size: 1.4rem;
   }
 }
 
 
 a {
   transition: .2s;
+}
+
+.blog-card {
+    display: flex;
+    align-items: center;
+  .post-detail {
+    padding: 20px;
+    @include media-breakpoint-down(md) {
+      padding: 20px 35px;
+    }
+  }
+}
+.blog-card-link {
+  border: 2px solid $gray-lightest;
+  color: $gray-dark;
+  display: block;
+  &:hover {
+    color: $gray-dark;
+    text-decoration: none;
+    border: 2px solid $brand-primary;
+  }
+}
+
+footer {
+  padding: 15px;
+  color: $gray-lightest;
+  display: flex;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5rem;
+  span {
+    font-family: $font-family-sans-serif;
+    font-size: .9rem;
+    padding-right: 15px;
+    border-right: 2px solid $brand-primary;
+    margin-right: 15px;
+  }
+  a {
+    color: $gray-lightest;
+    transition: .2s;
+    margin-right: 10px;
+    &:hover {
+      color: $brand-primary;
+      text-decoration: none;
+    }
+  }
+
+  .icons {
+    a {
+      font-size: 1.5rem;
+      padding: 5px 8px;
+      margin-right: 0;
+    }
+  }
+}
+
+*:focus {
+  outline: none;
+}
+
+body.user-is-tabbing *:focus {
+  outline: 2px solid #7AACFE !important; /* for non-webkit browsers */
+  outline: 5px auto -webkit-focus-ring-color !important;
 }

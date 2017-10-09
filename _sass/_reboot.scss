@@ -163,6 +163,15 @@ blockquote {
 a {
   color: $link-color;
   text-decoration: $link-decoration;
+  font-style:italic;
+
+  &.btn {
+    text-decoration: none;
+  }
+  &.card-link {
+    text-decoration: none;
+    font-style: normal;
+  }
 
   @include hover-focus {
     color: $link-hover-color;

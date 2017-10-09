@@ -1,0 +1,40 @@
+{
+  "nodes":[
+    {"id": 0, "name": "experience design", "group": 1,"value": 2, "class": ""},
+    {"id": 1, "name": "digital", "group": 2, "value": 1.4, "class": "digital"},
+    {"id": 2, "name": "spatial", "group": 3, "value": 1.4, "class": "spatial"},
+    {"id": 3, "name": "graphic", "group": 4, "value": 1.4, "class": "graphic"},
+    {"id": 4, "name": "experimental", "group": 2, "value": 1.2, "class": "digital spatial"},
+    {"id": 5, "name": "interface", "group": 2, "value": 1.2, "class": "digital graphic"},
+    {"id": 6, "name": "visual identity", "group": 4, "value": 1.2, "class": "graphic brand"},
+    {"id": 7, "name": "illustration", "group": 4, "value": 1.2, "class": "graphic"},
+    {"id": 8, "name": "information", "group": 4, "value": 1.2, "class": "graphic"},
+    {"id": 9, "name": "data visualisation", "group": 2, "value": 1.2, "class": "digital"},
+    {"id": 10, "name": "market research", "group": 5, "value": 1.2, "class": "brand"},
+    {"id": 11, "name": "wayfinding", "group": 3, "value": 1.2, "class": "spatial"},
+    {"id": 12, "name": "bond intelligent care", "group": 11, "value": 3, "class": "digital graphic case", "url":"cases/bond.html"},
+    {"id": 13, "name": "coca cola enterprises", "group": 12, "value": 3, "class": "digital spatial case", "url":"cases/cce.html"},
+    {"id": 14, "name": "indiecade", "group": 10, "value": 3, "class": "graphic case", "url":"cases/indiecade.html"},
+    {"id": 15, "name": "activity buzz", "group": 13, "value": 3, "class": "graphic brand case", "url":"cases/buzz.html"},
+    {"id": 16, "name": "colorful history", "group": 14, "value": 3, "class": "digital case", "url":"cases/colorful.html"}
+  ],
+  "links":[
+    {"source":0,"target":1,"value":1},
+    {"source":0,"target":2,"value":1},
+    {"source":0,"target":3,"value":1},
+    {"source":1,"target":4,"value":1},
+    {"source":1,"target":9,"value":0.8},
+    {"source":1,"target":5,"value":0.8},
+    {"source":2,"target":4,"value":0.8},
+    {"source":2,"target":11,"value":0.8},
+    {"source":3,"target":5,"value":0.8},
+    {"source":3,"target":6,"value":0.8},
+    {"source":3,"target":7,"value":0.8},
+    {"source":3,"target":8,"value":0.8},
+    {"source":5,"target":12,"value":1},
+    {"source":4,"target":13,"value":1},
+    {"source":8,"target":14,"value":1},
+    {"source":6,"target":15,"value":1},
+    {"source":9,"target":16,"value":1}
+  ]
+}

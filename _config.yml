@@ -3,7 +3,7 @@ title: amanda grace – experience design
 timezone: Australia/Sydney
 collections:
   works:
-    title: My work
+    title: Works
     output: true
   posts:
     title: Posts
@@ -17,12 +17,25 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/posts/:title/"
-    description: 
+    permalink: "/blog/:title/"
+    description:
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    description: 
+    description:
+- scope:
+    path: ''
+    type: works
+  values:
+    layout: work
+    permalink: "/:title/"
+    thumbnail image:
+    snippet:
+    description:
 permalink: pretty
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
