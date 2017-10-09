@@ -9,4 +9,75 @@ thumbnail image: "/assets/images/blog_thumbnails/moonlight_small.jpg"
 og image: "/assets/images/blog_thumbnails/moonlight.jpg"
 ---
 
-Testing
+After the #OscarsSoWhite debacle in 2016, this year’s Academy Awards have been [shattering records for diversity](http://time.com/4645315/oscar-nominations-2017-diversity/). From the story of a young gay black man’s coming of age in Miami to an animated, fantastical Polynesian epic to an actual epic from India to Australia and back again, there was no shortage of diverse storytelling this year, with six feature films and three documentaries featuring non-white subjects.
+
+![diversity-oscars-collage-768x768.jpg](/uploads/diversity-oscars-collage-768x768.jpg)
+<caption>The six feature films: Fences, Hidden Figures, Lion, Moonlight, Moana, and Loving.</caption>
+
+In conjunction with the growing discourse on diversity in [gaming](https://www.theguardian.com/technology/2015/sep/10/video-games-diversity-problem-runs-deeper-than-race-gender) and [advertising](https://www.marketingmag.com.au/news-c/diversity-advertising-marketing-2017/), there appears to be a growing appreciation for and expectation of diversity in storytelling in entertainment. While there is still much to be done for equality both in media and the real world, this is no petty feat – narrative is a crucial part of empathising with people who are different from you, and this understanding helps combat prejudice and [improve cross-cultural understanding](https://link.springer.com/article/10.1007/BF03165939).
+
+Unfortunately, this conversation seems to stop at mass-media. Narrative is a critical component of many industries, but often in a less consumer-facing way. In human-centred design, we consistently create narratives in attempts to better understand our users, and these stories we tell behind-the-scenes should strive for diversity as well.
+
+“But wait” – you say – “our user personas are diverse! They feature representatives from each of our core demographics. From young women to middle aged men, from low income to high income households, our personas all have different interests and backstories. Just look at how diverse our personas are!”
+
+![sample-user-personas.jpg](/uploads/sample-user-personas.jpg)
+<caption>User personas from a project on Behance.</caption>
+
+However, on closer inspection of the above personas, the only “urban low income” persona just so happens to be Mexican, the persona who is interested in gaming is a stereotypical [“nerdy Asian”](http://tvtropes.org/pmwiki/pmwiki.php/Main/AsianAndNerdy) who “gets good grades without studying much,” and the black man coincidentally coaches basketball. While there are definitely urban low income Mexicans, smart Asians who like video games, and black men who coach basketball, these generalisations indicate a glaring ignorance for how diverse these racial groups actually are.
+
+We all exhibit bias, to some extent, from the personal lens through which we view the world. This doesn’t necessarily mean we’re prejudiced – in the example above, they were actively trying to represent a diverse user base – but it does mean that any underlying issues with our limited personal experiences can bubble up into the narratives we invent.
+
+User-centred design seems to be up against the same problem that has plagued Hollywood for decades – both industries are predominantly white and predominantly male. As such, narratives in both fields tend to be written through white and male perspectives, and this can have [lasting technological and social implications](http://blog.wav.agency/you-make-google-evil/). Since the shortcomings of our industries are similar, we as designers can learn a lot through Hollywood’s prior – and enduring – failings and their recent successes in diversity.
+
+## Defining “diversity”
+
+Let’s start by making clear what I mean by “diversity.” To be diverse, by definition, is to have variety. But storytelling has always had variety, with different genres, dramatic structures, plot devices, and character archetypes to draw from. Contextually, we know that the “diversity” we’re discussing here is much more about representation. Not just any representation though – proportionate and authentic representation are critical to modern “diversity.”
+
+### Proportionate Representation
+Proportionate representation is straightforward enough – for example, assuming [US demographic statistics](https://en.wikipedia.org/wiki/Demography_of_the_United_States), for every 10 user personas you write, about 2 should be Hispanic, 1 or 2 should be black, 1 should be Asian, and half should be women. These ratios may vary depending on your user base, and it doesn’t necessarily hurt to strive for more diversity. For example, if you’re only going to write 3 personas, it makes sense to be more representative than less, even if that means being “disproportionate” in a more diverse way.
+
+You may be looking at the user persona example above and thinking “Well, that is definitely more than proportionately representative” – and you’re right. Being proportionately representative is the far easier part.
+
+![tfa_poster_wide_header-1536x864-959818851016-768x432.jpg](/uploads/tfa_poster_wide_header-1536x864-959818851016-768x432.jpg)
+<caption>Star Wars: The Force Awakens has more proportional representation than most blockbusters, but is Finn more of a “hyper-token” than a developed character with agency?</caption>
+
+We’re all probably familiar with token characters by now, where minorities are included more as a symbolic effort than as a character crucial to the plot – an issue that [some argue even the diversely cast Star Wars: The Force Awakens did not escape](http://www.indiewire.com/2015/12/hyper-tokenism-the-force-awakens-while-the-black-man-sleeps-162287/). Tokenism is inauthentic inclusion, and can be seen by audiences as more of a ploy for minority viewership (and money) than a push for truly diverse storytelling.
+
+Aside from tokenism, there are all sorts of problematic character tropes that continue to plague storytelling, from the [“strong female character”](https://blackgirlnerds.com/strong-female-characters-are-rarely-strong-and-barely-characters/) who is lauded for her masculine traits, to the [“flamboyant gay man”](https://www.theguardian.com/commentisfree/2016/feb/10/gay-men-tv-stereotypes-looking-sexuality) whose sexuality is used more for punchlines than character development, to the [fetishisation of “exotic” women](https://www.youtube.com/watch?v=K2hYdBxxTTM), to the [demonisation of mental illness](https://www.theguardian.com/film/2017/jan/12/cinema-dissociative-personality-disorder-split-james-mcavoy)…
+
+I could go on and on – if you’re really interested, TVTropes has put together an [extensive list of characterisation tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes) – but the point I’m trying to make is just *being* represented isn’t enough. True diversity also requires those being represented to be written in an authentic way.
+
+### Authentic Representation
+An approach that has become increasingly popular for filmmakers – [and designers](https://the-pastry-box-project.net/anne-gibson/2015-april-3) – to distance themselves from problematic stereotypes and tropes is “colour-blind casting.” The basic concept is that characters are written without a specific race, and sometimes gender, in mind, and the role is cast to the best fit or randomly assigned a race and gender after the fact.
+
+But this is a rather problematic approach to diversity – in some ways, [it’s erasure](https://www.theatlantic.com/entertainment/archive/2015/12/oscar-isaac-and-the-case-against-colorblind-casting/421668/). When characters are written without race, they will generally default to white. So while colour-blind casting may get rid of stereotypes, it also gets rid of all of the unique experiences of those that fall outside of the “default.”
+
+The experiences and perspective of a black woman will be much different from those of a white woman and even more different from those of a white man, so why would it be okay to write a “generic” persona through a white perspective and slap a stock photo of a black woman on at the end? It’s an inauthentic representation of this character’s experiences.
+
+![07HAMILTON-slide-UX39-videoSixteenByNineJumbo1600-v2-768x432.jpg](/uploads/07HAMILTON-slide-UX39-videoSixteenByNineJumbo1600-v2-768x432.jpg)
+<caption>Broadway darling Hamilton intentionally cast actors of colour to play “old, dead white men” – an alternative take on the colour-blind casting model that actually isn’t colour-blind casting at all. The roles, despite being based on white men, were always intended for a person of colour.</caption>
+
+Authentic representation is tricky, because authenticity itself is widely subjective and interpreted in a wide variety of ways. For the purposes of this discussion, we’ll define an authentically written character as a character who
+
+1. is fully developed with individual traits, goals, and thoughts,
+2. has dramatic agency, i.e. their actions have influence on the plot, and
+3. is written through the perspective – or with the awareness – of their individual identity.
+
+What this means is that it’s not simply enough to write a character that isn’t full of stereotypes, and it’s not even enough to write a character who isn’t merely a token. Authenticity also stems from the perspective that the story was written through. Just as someone might find it inauthentic for a billionaire to write about an impoverished person’s experiences, it can be inauthentic to write about the experiences of a group of people you’re out of touch with.
+
+That’s not to say that you couldn’t possibly write a character that’s different from you, but it should be done carefully and consciously, with cultural research and consideration of the opinions and perspectives of whom you’re writing about. For example, Disney [organised a trust of scholarly and cultural advisers](http://www.vanityfair.com/hollywood/2016/11/moana-oceanic-trust-disney-controversy-pacific-islanders-polynesia) to make sure they were telling the story of Moana in a way that was authentic to Polynesian culture.
+
+## What we can learn from Hollywood
+Why did this year’s Oscars have a #NotSoWhite field of nominees? First of all, because there were some really great stories that were told by a diverse group of actors and directors. Diversity begets diversity, and as the industry has become more accessible, people of all different backgrounds are able to tell their stories.
+
+The internet certainly has played a disruptive role in breaking down many of the barriers to entry to Hollywood, as well as creating opportunity for [new distribution channels](https://www.wired.com/2016/01/netflix-and-amazon-offer-indie-filmmakers-hope-and-lots-of-money/) such as Netflix. There are more independent films being created than ever, with the number of Sundance submissions [increasing 16-fold in the last 20 years](http://www.sundance.org/festivalhistory/), and some of the biggest buyers at the festival are internet-based “Hollywood outsiders.” This has forced larger companies to adapt and diversify the stories they’re telling in order to keep up.
+
+So takeaway #1? **Diversify your team.** Work collaboratively with people of a wide variety of backgrounds, and strive to make design a more accessible industry for everyone.
+
+*Need some help? AIGA has a useful, design-specific [list of inclusion resources](http://www.aiga.org/diversity-and-inclusion-resources) for your reference, and DAWN is an [Australian professional organisation](http://dawn.org.au/) promoting culturally diverse leadership.*
+
+However, simply having diverse stories wasn’t enough to keep the Oscars from being “so white” in 2016 – so what changed? The Academy actually listened to feedback and [significantly increased the diversity of their voting pool](https://qz.com/918576/how-the-academy-overcame-oscarssowhite-at-least-for-this-year/).
+
+Which brings us to takeaway #2 – discourse and dissent give room for growth. While our work isn’t quite as visible to the general public and there probably won’t be a Twitterstorm about diversity in UX, we should be having these conversations and listening to each other. Maybe this post has struck a nerve with you, and hopefully you take it as an opportunity to improve rather than an attack on your capabilities as a designer.
+
+And the final takeaway? As I’ve been iterating all of this post – if it’s an issue in film, it probably isn’t limited to the bubble of film. There may not be tons of discourse on diversity in user personas, but there’s plenty of material to work with for film. Read up, listen, and learn, and add a bit of Hollywood to your user personas.
