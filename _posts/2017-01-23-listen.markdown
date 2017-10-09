@@ -1,9 +1,10 @@
 ---
-title: "How to Stop Designing Stupid Products: Listen to Your&nbsp;User"
-short title: "Listen to Your User"
-date: 2017-01-23 21:11:00 +10:00
-excerpt: The best entrepreneurs don’t know better than their users – they know how to listen to them.
-permalink: /posts/design-better-products-by-listening/
+title: 'How to Stop Designing Stupid Products: Listen to Your&nbsp;User'
+date: 2017-01-23 22:11:00 +11:00
+permalink: "/posts/design-better-products-by-listening/"
+short title: Listen to Your User
+excerpt: The best entrepreneurs don’t know better than their users – they know how
+  to listen to them.
 thumbnail image: "/assets/images/blog_thumbnails/hushme_small.jpg"
 og image: "/assets/images/blog_thumbnails/hushme.jpg"
 ---

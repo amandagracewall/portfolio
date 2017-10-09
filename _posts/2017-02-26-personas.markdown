@@ -1,9 +1,10 @@
 ---
-title: "Lessons from Hollywood: How to Write Diverse User Personas"
-short title: "Diverse User Personas"
-excerpt: User personas – like many other things in this world – have a bit of a diversity problem. Here’s what we can learn from this year’s Oscars.
-date: 2017-02-26 21:11:00 +10:00
-permalink: /posts/how-to-write-diverse-user-personas/
+title: 'Lessons from Hollywood: How to Write Diverse User Personas'
+date: 2017-02-26 22:11:00 +11:00
+permalink: "/posts/how-to-write-diverse-user-personas/"
+short title: Diverse User Personas
+excerpt: User personas – like many other things in this world – have a bit of a diversity
+  problem. Here’s what we can learn from this year’s Oscars.
 thumbnail image: "/assets/images/blog_thumbnails/moonlight_small.jpg"
 og image: "/assets/images/blog_thumbnails/moonlight.jpg"
 ---
