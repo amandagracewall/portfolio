@@ -170,6 +170,16 @@ h2 {
   }
 }
 
+blockquote {
+  padding-left: 1rem;
+  border-left: 2px solid $brand-primary;
+  margin: 2rem 0;
+  font-size: 1.2rem;
+  br {
+    font-size: 1.6rem;
+  }
+}
+
 
 a {
   transition: .2s;

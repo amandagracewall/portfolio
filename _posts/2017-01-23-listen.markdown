@@ -11,24 +11,24 @@ thumbnail image: "/assets/images/blog_thumbnails/hushme_small.jpg"
 og image: "/assets/images/blog_thumbnails/hushme.jpg"
 ---
 
-> “If I had asked people what they wanted, they would have said faster horses.” <br> -Henry Ford
+> “If I had asked people what they wanted, they would have said faster horses.”<br>*Henry Ford*
 
 This quote has become motivational poster fodder, inspiring innovation for the next big thing that no one seemed to be asking for. It’s up there with Steve Jobs’ [“people don’t know what they want until we show them”](https://www.helpscout.net/blog/why-steve-jobs-never-listened-to-his-customers/) quote when defending the decision to forgo market research.
 
-> “It’s really hard to design products by focus groups. A lot of times, people don’t know what they want until you show it to them.” <br> –Steve Jobs
+> “It’s really hard to design products by focus groups. A lot of times, people don’t know what they want until you show it to them.” <br>*Steve Jobs*
 
 Maybe the average person wouldn’t have thought to ask for a motorised chunk of metal – but they were asking for faster transportation that could replace their horses, which Ford’s affordable automobile just so happened to provide.
 
 Ford clearly understood the context surrounding the desire for “faster horses” and created something to meet this underlying demand. Neither he nor Jobs created demand from thin air. Both were just perceptive, creative, and highly capable individuals. 
 
-Others might tell you that we aren’t all as insightful, creative, and highly capable as Henry Ford or Steve Jobs, therefore we should conduct market research – but that leaves even the tiniest bit of room for delusions of grandeur. 
+Others might tell you that we aren’t all as insightful, creative, and highly capable as Henry Ford or Steve Jobs, therefore we should conduct market research – but that leaves even the tiniest bit of room for delusions of grandeur.
 
 Instead, I’d argue that their market research was just far more informal. Jobs has famously shunned focus groups, but he clearly was in touch with what consumers wanted through other means, even if just his own observations.
 
 Surely we all want to make products that people want, so we should take the time and effort to understand our audience’s wants and needs. Many products show a basic understanding of an untapped demand but lack the contextual awareness to make a solution desirable or accessible enough for their audience.
 
 ![hoven.jpg](/uploads/hoven.jpg)
-<p class="caption">The June Oven</p>
+<p class="caption">The June Oven, simplifying your oven by complicating it.</p>
 
 Case in point: the [June Oven](https://juneoven.com/). A high-tech, $1500USD toaster oven, with temperature probing, live video, and an integrated app, designed to “remove the unpredictability from cooking.” It’s an oven meant to simplify interacting with your oven… by making your oven even more complicated.
 
@@ -59,7 +59,7 @@ Now that you’ve identified some issues, dig a bit deeper into the context. The
 What kind of people are having this issue? Not just demographics, ask them about their lives. The more you understand about their lives, the better you can create solutions that fit into them. If you don’t have concrete examples to work with, use your imagination and [create some basic user personas](https://xtensio.com/how-to-create-a-persona/).
 
 ### What
-What is the issue? What is it that they want? As we’ve already established, people aren’t always the best at articulating what exactly it is that they want. So divide the different aspects of wanting: What do they want that they don’t have? What do they have that they don’t want? What do they have that they don’t want to lose? 
+What is the issue? What is it that they want? As we’ve already established, people aren’t always the best at articulating what exactly it is that they want. So divide the different aspects of wanting: What do they want that they don’t have? What do they have that they don’t want? What do they have that they don’t want to lose?
 
 ### Why
   Then, break down the “whats” further by asking “why.” Why is this an issue? Why would your life be better without this issue? Why is that important to you? These questions can help you understand the personal values of your market, and guide you toward or away from some solutions.
@@ -76,6 +76,6 @@ Now that you’ve gotten this far, you’ve probably already started brainstormi
 Build off of these initial ideas, prototype them, get feedback. Don’t stop listening and asking, but stay focused on the original issue and keep your objective well-defined to avoid feature creep. People may say that they want all of these features, but once wallets come out, they might not actually want to pay for all of them.
 
 ![coolest.jpg](/uploads/coolest.jpg)
-<p class="caption">The Coolest may be the “coolest cooler” with all of these features – but its reasonable Kickstarter price was [too good to be true](http://mashable.com/2016/04/16/coolest-cooler-money/).</p>
+<p class="caption">The Coolest may be the “coolest cooler” with all of these features – but its reasonable Kickstarter price was <a href="http://mashable.com/2016/04/16/coolest-cooler-money/">too good to be true</a>.</p>
 
 This step can be difficult, time-consuming, physically and emotionally draining, but it’s also the fun part. Here is where your creativity can shine. So go turn those “faster horses” into something cool and inventive, but most importantly, into something people actually want.
