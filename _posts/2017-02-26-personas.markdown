@@ -14,7 +14,7 @@ og image: "/assets/images/blog_thumbnails/moonlight.jpg"
 After the #OscarsSoWhite debacle in 2016, this year’s Academy Awards have been [shattering records for diversity](http://time.com/4645315/oscar-nominations-2017-diversity/). From the story of a young gay black man’s coming of age in Miami to an animated, fantastical Polynesian epic to an actual epic from India to Australia and back again, there was no shortage of diverse storytelling this year, with six feature films and three documentaries featuring non-white subjects.
 
 ![diversity-oscars-collage-768x768.jpg](/uploads/diversity-oscars-collage-768x768.jpg)
-<caption>The six feature films: Fences, Hidden Figures, Lion, Moonlight, Moana, and Loving.</caption>
+<p class="caption">The six feature films: Fences, Hidden Figures, Lion, Moonlight, Moana, and Loving.</p>
 
 In conjunction with the growing discourse on diversity in [gaming](https://www.theguardian.com/technology/2015/sep/10/video-games-diversity-problem-runs-deeper-than-race-gender) and [advertising](https://www.marketingmag.com.au/news-c/diversity-advertising-marketing-2017/), there appears to be a growing appreciation for and expectation of diversity in storytelling in entertainment. While there is still much to be done for equality both in media and the real world, this is no petty feat – narrative is a crucial part of empathising with people who are different from you, and this understanding helps combat prejudice and [improve cross-cultural understanding](https://link.springer.com/article/10.1007/BF03165939).
 
@@ -23,7 +23,7 @@ Unfortunately, this conversation seems to stop at mass-media. Narrative is a cri
 “But wait” – you say – “our user personas are diverse! They feature representatives from each of our core demographics. From young women to middle aged men, from low income to high income households, our personas all have different interests and backstories. Just look at how diverse our personas are!”
 
 ![sample-user-personas.jpg](/uploads/sample-user-personas.jpg)
-<caption>User personas from a project on Behance.</caption>
+<p class="caption">User personas from a project on Behance.</p>
 
 However, on closer inspection of the above personas, the only “urban low income” persona just so happens to be Mexican, the persona who is interested in gaming is a stereotypical [“nerdy Asian”](http://tvtropes.org/pmwiki/pmwiki.php/Main/AsianAndNerdy) who “gets good grades without studying much,” and the black man coincidentally coaches basketball. While there are definitely urban low income Mexicans, smart Asians who like video games, and black men who coach basketball, these generalisations indicate a glaring ignorance for how diverse these racial groups actually are.
 
@@ -41,7 +41,7 @@ Proportionate representation is straightforward enough – for example, assuming
 You may be looking at the user persona example above and thinking “Well, that is definitely more than proportionately representative” – and you’re right. Being proportionately representative is the far easier part.
 
 ![tfa_poster_wide_header-1536x864-959818851016-768x432.jpg](/uploads/tfa_poster_wide_header-1536x864-959818851016-768x432.jpg)
-<caption>Star Wars: The Force Awakens has more proportional representation than most blockbusters, but is Finn more of a “hyper-token” than a developed character with agency?</caption>
+<p class="caption">Star Wars: The Force Awakens has more proportional representation than most blockbusters, but is Finn more of a “hyper-token” than a developed character with agency?</p>
 
 We’re all probably familiar with token characters by now, where minorities are included more as a symbolic effort than as a character crucial to the plot – an issue that [some argue even the diversely cast Star Wars: The Force Awakens did not escape](http://www.indiewire.com/2015/12/hyper-tokenism-the-force-awakens-while-the-black-man-sleeps-162287/). Tokenism is inauthentic inclusion, and can be seen by audiences as more of a ploy for minority viewership (and money) than a push for truly diverse storytelling.
 
@@ -57,7 +57,7 @@ But this is a rather problematic approach to diversity – in some ways, [it’s
 The experiences and perspective of a black woman will be much different from those of a white woman and even more different from those of a white man, so why would it be okay to write a “generic” persona through a white perspective and slap a stock photo of a black woman on at the end? It’s an inauthentic representation of this character’s experiences.
 
 ![07HAMILTON-slide-UX39-videoSixteenByNineJumbo1600-v2-768x432.jpg](/uploads/07HAMILTON-slide-UX39-videoSixteenByNineJumbo1600-v2-768x432.jpg)
-<caption>Broadway darling Hamilton intentionally cast actors of colour to play “old, dead white men” – an alternative take on the colour-blind casting model that actually isn’t colour-blind casting at all. The roles, despite being based on white men, were always intended for a person of colour.</caption>
+<p class="caption">Broadway darling Hamilton intentionally cast actors of colour to play “old, dead white men” – an alternative take on the colour-blind casting model that actually isn’t colour-blind casting at all. The roles, despite being based on white men, were always intended for a person of colour.</p>
 
 Authentic representation is tricky, because authenticity itself is widely subjective and interpreted in a wide variety of ways. For the purposes of this discussion, we’ll define an authentically written character as a character who
 
@@ -76,7 +76,7 @@ The internet certainly has played a disruptive role in breaking down many of the
 
 So takeaway #1? **Diversify your team.** Work collaboratively with people of a wide variety of backgrounds, and strive to make design a more accessible industry for everyone.
 
-*Need some help? AIGA has a useful, design-specific [list of inclusion resources](http://www.aiga.org/diversity-and-inclusion-resources) for your reference, and DAWN is an [Australian professional organisation](http://dawn.org.au/) promoting culturally diverse leadership.*
+Need some help? AIGA has a useful, design-specific [list of inclusion resources](http://www.aiga.org/diversity-and-inclusion-resources) for your reference, and DAWN is an [Australian professional organisation](http://dawn.org.au/) promoting culturally diverse leadership.
 
 However, simply having diverse stories wasn’t enough to keep the Oscars from being “so white” in 2016 – so what changed? The Academy actually listened to feedback and [significantly increased the diversity of their voting pool](https://qz.com/918576/how-the-academy-overcame-oscarssowhite-at-least-for-this-year/).
 

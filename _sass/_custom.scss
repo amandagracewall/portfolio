@@ -8,11 +8,36 @@ body {
 section {
   padding-top: 5rem;
   padding-bottom: 6rem;
+
+  &.blog-header {
+    padding-bottom: 4rem;
+  }
   @include media-breakpoint-down(sm) {
     &:not(.hero) {
       padding-top: 3rem;
       padding-bottom: 4rem;
     }
+    &.blog-header {
+      padding-bottom: 3rem;
+    }
+  }
+}
+
+.blog-content {
+  .caption {
+    font-style: italic;
+    margin-bottom: 2rem;
+  }
+  img {
+    max-width: 100%;
+    margin: 1rem auto 0;
+  }
+
+  h2 {
+    margin: 2rem 0 1rem;
+  }
+  h3 {
+    margin: 1.5rem 0 1rem;
   }
 }
 
@@ -157,6 +182,11 @@ a {
     padding: 20px;
     @include media-breakpoint-down(md) {
       padding: 20px 35px;
+    }
+  }
+  &.card-min {
+    .post-detail {
+      padding: 20px 35p
     }
   }
 }
