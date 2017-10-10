@@ -26,12 +26,12 @@ layout: work
 
 I liaised with the Associate Director of IT Innovation to ideate, design, and develop a prototype that met the technological specifications and creative expectations I was given. However, during this process, it became evident that a gesture menu is not an ideal method of ordering. Everyone was happy with the prototype, and it performed well at the conference, but as I had come to expect, businesses weren’t clamoring to implement it themselves.
 
-![splash-e5d0f6.jpg](/uploads/splash-e5d0f6.jpg)
-<p class="caption">Screenshot of the opening interaction</p>
+[demo.gif](/uploads/demo.gif)
+<p class="caption">The final product on display in Berlin with screenshots of the key interactions</p>
 
 Ultimately, the solution neither simplified the ordering process nor introduced a truly unique interactive experience. The most interesting interaction is the wave to begin – an inviting way to initiate an interaction as it mirrors how one might start a friendly conversation. After this exchange, however, the menu essentially becomes a large computer screen with the user's hand movements controlling the cursor. This is largely the approach that even Microsoft had been using with their Xbox menus until they [scrapped the concept entirely](http://www.techtimes.com/articles/105349/20151111/microsoft-confirms-new-xbox-one-experience-drops-kinect-gestures.htm), citing the lack of intuitiveness and the ease of alternative controls.
 
-![hand-cursor.jpg](/uploads/hand-cursor.jpg)
+![xbox-example.jpg](/uploads/xbox-example.jpg)
 <p class="caption">Microsoft no longer uses this "hand as a cursor" approach</p>
 
 > So the question is: why don’t gesture controls lend themselves well to this sort of menu-based interaction? Why was it so hard to make them work?
