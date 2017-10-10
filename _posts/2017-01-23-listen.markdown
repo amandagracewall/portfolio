@@ -76,6 +76,6 @@ Now that you’ve gotten this far, you’ve probably already started brainstormi
 Build off of these initial ideas, prototype them, get feedback. Don’t stop listening and asking, but stay focused on the original issue and keep your objective well-defined to avoid feature creep. People may say that they want all of these features, but once wallets come out, they might not actually want to pay for all of them.
 
 ![coolest.jpg](/uploads/coolest.jpg)
-The Coolest may be the “coolest cooler” with all of these features – but its reasonable Kickstarter price was [too good to be true](http://mashable.com/2016/04/16/coolest-cooler-money/).
+<p class="caption">The Coolest may be the “coolest cooler” with all of these features – but its reasonable Kickstarter price was [too good to be true](http://mashable.com/2016/04/16/coolest-cooler-money/).</p>
 
 This step can be difficult, time-consuming, physically and emotionally draining, but it’s also the fun part. Here is where your creativity can shine. So go turn those “faster horses” into something cool and inventive, but most importantly, into something people actually want.
