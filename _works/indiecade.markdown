@@ -6,10 +6,16 @@ categories:
 - info
 thumbnail image: "/assets/images/work_thumbnails/indiecade.jpg"
 snippet: An academic redesign of an unreadable schedule brochure
-description: In this academic project, I redesigned the largely unreadable 2015 schedule brochure for IndieCade, an international indie games festival. The redesign needed to contain all of the same information as the original while implementing a stronger hierarchy and enhancing readability and scannability.
+description: In this academic project, I redesigned the largely unreadable 2015 schedule
+  brochure for IndieCade, an international indie games festival. The redesign needed
+  to contain all of the same information as the original while implementing a stronger
+  hierarchy and enhancing readability and scannability.
 question: How could IndieCade attendees more easily find event times and locations?
-summary: In this academic project, I redesigned the largely unreadable 2015 schedule brochure for IndieCade, an international indie games festival. The redesign needed to contain all of the same information as the original while implementing a stronger hierarchy and enhancing readability and scannability.
-project date: 2016-03-01
+summary: In this academic project, I redesigned the largely unreadable 2015 schedule
+  brochure for IndieCade, an international indie games festival. The redesign needed
+  to contain all of the same information as the original while implementing a stronger
+  hierarchy and enhancing readability and scannability.
+project date: 2016-03-01 11:00:00 +11:00
 company: Georgia Institute of Technology
 layout: work
 ---

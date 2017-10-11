@@ -7,13 +7,20 @@ categories:
 - dev
 thumbnail image: "/assets/images/work_thumbnails/colorful.jpg"
 snippet: An interactive portrait of Cooper Hewitt's poster collection
-description: In this academic project, I worked with a JSON dataset containing a collection of posters from the Cooper Hewitt Smithsonian Design Museum and ideated, designed, and developed a Processing program that illustrates the past century of American history through colour analysis.
+description: In this academic project, I worked with a JSON dataset containing a collection
+  of posters from the Cooper Hewitt Smithsonian Design Museum and ideated, designed,
+  and developed a Processing program that illustrates the past century of American
+  history through colour analysis.
 question: How can a collection of data tell a story through interaction?
-summary: In this academic project, I worked with a JSON dataset containing a collection of posters from the Cooper Hewitt Smithsonian Design Museum and ideated, designed, and developed a Processing program that illustrates the past century of American history through colour analysis.
-project date: 2014-10-01
+summary: In this academic project, I worked with a JSON dataset containing a collection
+  of posters from the Cooper Hewitt Smithsonian Design Museum and ideated, designed,
+  and developed a Processing program that illustrates the past century of American
+  history through colour analysis.
+project date: 2014-10-01 10:00:00 +10:00
 company: Georgia Institute of Technology
 layout: work
 ---
+
 There were two kinds of stories to tell with this collection – the way that posters had changed over time, and the stories in the individual compositions themselves. To tell these stories, the program analyzes colour composition and presents the data via two different modes: spectrum and poster.
 
 ## Spectrum mode

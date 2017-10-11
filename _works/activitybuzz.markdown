@@ -6,13 +6,22 @@ categories:
 - viz
 thumbnail image: "/assets/images/work_thumbnails/buzz.jpg"
 snippet: A playful brand built for an activity directory
-description: Activity Buzz, an Atlanta-based startup, needed a brand identity to get their online directory off the ground. The directory connects people to local activities, such as recreational soccer or piano lessons, while promoting local businesses and providing an avenue for consumers to leave their feedback.
+description: Activity Buzz, an Atlanta-based startup, needed a brand identity to get
+  their online directory off the ground. The directory connects people to local activities,
+  such as recreational soccer or piano lessons, while promoting local businesses and
+  providing an avenue for consumers to leave their feedback.
 question: How can an activity directory be conveyed visually?
-summary: Activity Buzz, an Atlanta-based startup, needed a brand identity to get their online directory off the ground. The directory connects people to local activities, such as recreational soccer or piano lessons, while promoting local businesses and providing an avenue for consumers to leave their feedback. The target market is primarily parents of children aged 5 - 12, though the design should not alienate other potential users.
-project date: 2015-03-01
+summary: Activity Buzz, an Atlanta-based startup, needed a brand identity to get their
+  online directory off the ground. The directory connects people to local activities,
+  such as recreational soccer or piano lessons, while promoting local businesses and
+  providing an avenue for consumers to leave their feedback. The target market is
+  primarily parents of children aged 5 - 12, though the design should not alienate
+  other potential users.
+project date: 2015-03-01 11:00:00 +11:00
 company: Activity Buzz
 layout: work
 ---
+
 There were four main considerations in building the Activity Buzz brand – colour, icon, typography, and tone.
 
 ### Colour
