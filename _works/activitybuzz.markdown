@@ -38,10 +38,16 @@ Activities are fun, so the brand should be fun too. Orange and yellow are warm, 
 ### Icon
 It seemed apparent to draw from the "buzz" in the name, but how? Buzz as in bees? Vibration? Word of mouth? Early iterations were bees, but I came to realize that the bee didn't adequately represent the service. Activity Buzz is about places of activity – and what better symbol for that than a hive? Running with that idea, I created this final icon – a simple, linear hive made from winding curves filled with momentum and playful energy.
 
+![typography.jpg](/uploads/typography.jpg)
+<p class="caption">Full logo with icon and typography</p>
+
 ### Typography
 For a more casual, modern look, lowercase letters are used in the logo, which also helps bring more roundness to the words with the "a" and "b". This roundness plays off of the angular "v", "y", and "z" to create a dynamic typographic logo that both pairs well with the icon and can stand on its own.
 
 ### Tone
 A visual identity comes with a tone – a tone that should be carried into every bit of copy that is written. The Activity Buzz tone is casual and playful, but also professional and sincere. It focuses on the intangible benefits – such as little Suzie's confidence from karate or the sense of community the local rec team provides. It has a go-getter attitude, challenging people to find and chase their passions. The tone of the copy needs to build complexity that the simple and playful logo cannot achieve on its own.
+
+> &ldquo;...We believe that doing things should be easy. If you want to learn how to play the piano, or if your kid wants to take up karate, the only thing keeping you from your dreams should be the trip to the lesson.&rdquo;<br>*Sample copy from Who We Are*
+
 
 These four components create a foundation to build the rest of the branding materials on – from window stickers to the website to the mobile icon.
