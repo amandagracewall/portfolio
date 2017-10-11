@@ -18,11 +18,21 @@ summary: In this academic project, I redesigned the largely unreadable 2015 sche
 project date: 2016-03-01 11:00:00 +11:00
 company: Georgia Institute of Technology
 layout: work
+has slider?: true
 ---
 
 The IndieCade festival is an annual festival held in the Los Angeles area dedicated to independent games. In 2015, the festival took place in Culver City and spanned multiple locations throughout the city – the IndieCade Village, Fire Station, Ivy Substation, and City Hall. There were several topics, each specific to one of the four locations. Most of the topics are located at IndieCade Village. The events vary from talks to lessons to game demos, some of which are ongoing throughout the day. Most of the events occur between 9a.m. and 6p.m., with the exception of the Night Games which require a wristband.
 
 However, the original brochure struggles to convey even this general information. Here's what went wrong.
+
+<div id="slider" class="mt-4">
+ <!-- The before image is first -->
+ <img src="/resources/indiecade/original.jpg" style="margin: 0" />
+ <!-- The after image is last -->
+ <img src="/resources/indiecade/final.jpg" style="margin: 0"/>
+</div>
+<p class='caption mt-2'>Compare the original and redesigned main spreads</p>
+
 
 ## Issues with the original
 

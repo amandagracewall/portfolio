@@ -159,3 +159,7 @@ function handleFirstTab(e) {
 }
 
 window.addEventListener('keydown', handleFirstTab);
+
+if ($("#slider").length) {
+  $("#slider").twentytwenty();
+}
