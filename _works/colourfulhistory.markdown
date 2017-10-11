@@ -23,6 +23,11 @@ layout: work
 
 There were two kinds of stories to tell with this collection – the way that posters had changed over time, and the stories in the individual compositions themselves. To tell these stories, the program analyzes colour composition and presents the data via two different modes: spectrum and poster.
 
+<video width="100%" height="auto" controls autoplay loop class="mt-4">
+ <source src="/resources/colorfulhistory/Project%20Preview.mp4" type="video/mp4">
+</video>
+<p class="caption mt-2">A demonstration of the final project</p>
+
 ## Spectrum mode
 Spectrum mode illustrates the popular colours of the given time period with a histogram. The user can filter posters for any given year between 1918 and 2013 by using the slider. With adjustment of the slider, the bars change in height, representing the ratio of pixels in a given hue to the number of posters in the set. Animation helps visualize these changes over time. Upon hover, the bar will display a tooltip with any dominant shades of that hue found in the poster set.
 
