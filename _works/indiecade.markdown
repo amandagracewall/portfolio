@@ -17,8 +17,8 @@ summary: In this academic project, I redesigned the largely unreadable 2015 sche
   hierarchy and enhancing readability and scannability.
 project date: 2016-03-01 11:00:00 +11:00
 company: Georgia Institute of Technology
-layout: work
 has slider?: true
+layout: work
 ---
 
 The IndieCade festival is an annual festival held in the Los Angeles area dedicated to independent games. In 2015, the festival took place in Culver City and spanned multiple locations throughout the city – the IndieCade Village, Fire Station, Ivy Substation, and City Hall. There were several topics, each specific to one of the four locations. Most of the topics are located at IndieCade Village. The events vary from talks to lessons to game demos, some of which are ongoing throughout the day. Most of the events occur between 9a.m. and 6p.m., with the exception of the Night Games which require a wristband.
@@ -50,6 +50,9 @@ The aforementioned issues can make it difficult to determine what the locations 
 ### Establishing hierarchy
 Orange headers and blue outlines associate and differentiate content to create the overall structure of the document. Colour-coded subheaders establish location, and headers within coloured blocks establish topic threads. Time is consistently on the left, as well as annotated in the schedule blocks.
 
+![event.gif](/uploads/event.gif)
+<p class="caption">A walkthrough of a key reading process</p>
+
 ### Actual colour coding
 The newly introduced map both clearly establishes the locations and serves as a key for the new colour-coding. Clearly connecting colour to location eases the ability to scan and cross-reference information. However, colour is just an additional encoding – everything is still clearly labeled to prevent constant key referencing and to consider those that may be colourblind.
 
@@ -57,3 +60,5 @@ The newly introduced map both clearly establishes the locations and serves as a 
 Shifting the schedule from horizontal to vertical reduces line length, making the schedule information more legible. The choice of a narrower font allows for more information to fit in the schedule boxes instead of changing font sizes constantly, which can cause eye strain. The use of Optima as a body font also allows for high legibility at low sizes, giving space for more information and descriptions, as well as room to move the evening events to the main spread and add the map.
 
 While the redesign loses some of the visual character of the original, perhaps even becoming quite generic, it provides a starting point with a clear information hierarchy to then adapt and rebrand.
+
+For easier viewing, you can view the PDFs of the [original brochure](/resources/indiecade/original.pdf) and the [redesigned brochure](/resources/indiecade/redesigned.pdf) here.
