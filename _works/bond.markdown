@@ -83,3 +83,5 @@ The SDK draws inspiration from Uber's successful design, using the initial ratin
 
 ![positive.jpg](/uploads/positive.jpg)
 <p class="caption">Offboarding? ✔ Targeted feedback? ✔</p>
+
+If you have Sketch, you can [download the full project here](/resources/bond/Bond%20Intelligent%20Care%20SDK.sketch). If not, you can still [view the screens in this PDF](/resources/bond/Bond%20Intelligent%20Care%20SDK.pdf).

@@ -61,4 +61,4 @@ Shifting the schedule from horizontal to vertical reduces line length, making th
 
 While the redesign loses some of the visual character of the original, perhaps even becoming quite generic, it provides a starting point with a clear information hierarchy to then adapt and rebrand.
 
-For easier viewing, you can view the PDFs of the [original brochure](/resources/indiecade/original.pdf) and the [redesigned brochure](/resources/indiecade/redesigned.pdf) here.
+For easier viewing, you can view the PDFs of the [original brochure](/resources/indiecade/Original%20IndieCade%20Brochure.pdf) and the [redesigned brochure](/resources/indiecade/Redesigned%20IndieCade%20Brochure.pdf) here.
