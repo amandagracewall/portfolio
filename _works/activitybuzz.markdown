@@ -50,4 +50,7 @@ A visual identity comes with a tone – a tone that should be carried into every
 > &ldquo;...We believe that doing things should be easy. If you want to learn how to play the piano, or if your kid wants to take up karate, the only thing keeping you from your dreams should be the trip to the lesson.&rdquo;<br>*Sample copy from Who We Are*
 
 
-These four components create a foundation to build the rest of the branding materials on – from window stickers to the website to the mobile icon.
+These four components create a foundation to build the rest of the branding materials on – from promotional materials to the website to the mobile icon.
+
+![sticker.jpg](/uploads/sticker.jpg)
+<p class="caption">A mockup of a window sticker for local businesses</p>
