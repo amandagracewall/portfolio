@@ -16,12 +16,12 @@ summary: Bond Intelligent Care, a mobile application that connects patients with
   their own applications. Since the SDK may be the first touchpoint for many users
   and the service is a higher involvement purchase, the experience must build user
   trust quickly through the onboarding process.
-project date: 2015-02-01 00:00:00 +11:00
+project date: 2015-06-01
 company: Alii Healthcare
 layout: work
 ---
 
-Through ideation and research, I determined that successful onboarding required building trust in two key areas: the service and the technology. 
+Through ideation and research, I determined that successful onboarding required building trust in two key areas: the service and the technology.
 
 We would have to convince users that seeing a doctor remotely with Bond is in fact “the smarter way to see a doctor" and that the application will deliver an exceptional experience and keep their personal and medical information secure, all in a matter of seconds. The trust that we had built over time through marketing, community events, and our website would have to be condensed.
 
@@ -38,7 +38,7 @@ Humanizing the experience with a face – or even an anthropomorphised character
 ### Use your voice
 Whether onboarding is the start of your communications with the user and you're going for the conversion or you're simply sealing the deal, you're still marketing to the user and your copy should reflect the brand voice.
 
-We at Bond like to address the user directly in an accessible but professional tone that establishes both authority and familiarity, so that tone carries through the experience.   
+We at Bond like to address the user directly in an accessible but professional tone that establishes both authority and familiarity, so that tone carries through the experience.
 
 ### Keep the brand prominent
 Even if the brand isn't recognizable enough to be a selling point, presenting the brand well helps establish legitimacy. In this case, it proves particularly important – no one wants to feel like they're seeing an off-brand doctor.
@@ -52,7 +52,7 @@ Even if conversion for your product or service is less involved, there will stil
 <p class="caption">Prominent branding? ✔ Anticipating questions? ✔ Setting expectations? ✔</p>
 
 ### Set expectations
-No one likes feeling that something wasn't what they expected. Progress bars and foreshadowing copy help the user know what's coming next. This keeps users feeling in control of their experience and reduces the &ldquo;wait I didn't mean to do that&rdquo; refund requests. 
+No one likes feeling that something wasn't what they expected. Progress bars and foreshadowing copy help the user know what's coming next. This keeps users feeling in control of their experience and reduces the &ldquo;wait I didn't mean to do that&rdquo; refund requests.
 
 ## Trust in the technology
 

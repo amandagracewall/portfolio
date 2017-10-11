@@ -6,6 +6,9 @@
     <span class="d-inline-block mr-2">full-stack development</span>
   {% endif %}
   {% if category == "viz" %}
+    <span class="d-inline-block mr-2">visual design</span>
+  {% endif %}
+  {% if category == "info" %}
     <span class="d-inline-block mr-2">info visualisation</span>
   {% endif %}
 {% endfor %}

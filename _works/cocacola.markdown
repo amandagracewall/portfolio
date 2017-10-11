@@ -26,7 +26,7 @@ layout: work
 
 I liaised with the Associate Director of IT Innovation to ideate, design, and develop a prototype that met the technological specifications and creative expectations I was given. However, during this process, it became evident that a gesture menu is not an ideal method of ordering. Everyone was happy with the prototype, and it performed well at the conference, but as I had come to expect, businesses weren’t clamoring to implement it themselves.
 
-[demo.gif](/uploads/demo.gif)
+![demo.gif](/uploads/demo.gif)
 <p class="caption">The final product on display in Berlin with screenshots of the key interactions</p>
 
 Ultimately, the solution neither simplified the ordering process nor introduced a truly unique interactive experience. The most interesting interaction is the wave to begin – an inviting way to initiate an interaction as it mirrors how one might start a friendly conversation. After this exchange, however, the menu essentially becomes a large computer screen with the user's hand movements controlling the cursor. This is largely the approach that even Microsoft had been using with their Xbox menus until they [scrapped the concept entirely](http://www.techtimes.com/articles/105349/20151111/microsoft-confirms-new-xbox-one-experience-drops-kinect-gestures.htm), citing the lack of intuitiveness and the ease of alternative controls.
@@ -43,7 +43,7 @@ That being said, there have been some excellent experimental uses of the Kinect,
 ![vending-screen.jpg](/uploads/vending-screen.jpg)
 <p class="caption">A playful publicity stunt using Kinect technology in South Korea</p>
 
-There was a fundamental flaw in the design process for this project – and it was that the wrong question was being asked from the very beginning.
+> There was a fundamental flaw in the design process for this project – and it was that the wrong question was being asked from the very beginning.
 
 Rather than asking how we could include gesture controls in the ordering experience, **we should have asked how – or if – the experience could be improved by these controls**. It’s a small but important distinction. The first question results in a final product such as this one – a functioning experience that no one wanted or asked for – while the second question opens other doors. Kinect technology could perhaps make the ordering experience more playful and more memorable, but certainly not more practical.
 

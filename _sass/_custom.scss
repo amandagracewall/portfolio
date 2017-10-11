@@ -9,7 +9,7 @@ section {
   padding-top: 5rem;
   padding-bottom: 6rem;
 
-  &.blog-header {
+  &.text-header {
     padding-bottom: 4rem;
   }
   @include media-breakpoint-down(sm) {
@@ -17,13 +17,13 @@ section {
       padding-top: 3rem;
       padding-bottom: 4rem;
     }
-    &.blog-header {
+    &.text-header {
       padding-bottom: 3rem;
     }
   }
 }
 
-.content {
+.text-content{
   .caption {
     font-style: italic;
     margin-bottom: 2rem;
@@ -174,7 +174,8 @@ blockquote {
   padding-left: 1rem;
   border-left: 2px solid $brand-primary;
   margin: 2rem 0;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
+  line-height: 1.4;
   br {
     font-size: 1.6rem;
   }

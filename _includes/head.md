@@ -7,11 +7,15 @@
   <!--og meta-->
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="{{site['Share title']}}">
-  <meta property="og:description" content="{{site['Share description']}}">
-  <meta property="og:url" content="{{site.url}}">
+  {% if page.is_post %}
+  <meta property="og:title" content="{{page.title | default: site['og title']}}">
+  {% else %}
+  <meta property="og:title" content="{{site['og title']}}">
+  {% endif %}
+  <meta property="og:description" content="{{page['og description'] | default: site['og description']}}">
+  <meta property="og:url" content="{{site.url}}{{page.url}}">
   <meta property="og:site_name" content="{{site.title}}">
-  <meta property="og:image" content="{{site['Share image']}}">
+  <meta property="og:image" content="{{page['og image'] | default: site['og image']}}">
   <!--favicons-->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
