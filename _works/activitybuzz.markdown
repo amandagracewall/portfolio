@@ -27,6 +27,14 @@ There were four main considerations in building the Activity Buzz brand – colo
 ### Colour
 Activities are fun, so the brand should be fun too. Orange and yellow are warm, playful, and youthful colors, and the complimentary sky blue adds whimsy and incorporates a bit of nature into the design. The palette creates a contemporary take on primary colors to seem kid-friendly but not childish or trite.
 
+<ul class="palette">
+  <li style="background: #FF895A"><p class="swatch">#FF895A</p></li>
+  <li style="background: #FCF8E3"><p class="swatch">#FCF8E3</p></li>
+  <li style="background: #A4E0DF"><p class="swatch">#A4E0DF</p></li>
+  <li style="background: #F9E79B"><p class="swatch">#F9E79B</p></li>
+</ul>
+<p class="caption mt-2">The Activity Buzz colour palette</p>
+
 ### Icon
 It seemed apparent to draw from the "buzz" in the name, but how? Buzz as in bees? Vibration? Word of mouth? Early iterations were bees, but I came to realize that the bee didn't adequately represent the service. Activity Buzz is about places of activity – and what better symbol for that than a hive? Running with that idea, I created this final icon – a simple, linear hive made from winding curves filled with momentum and playful energy.
 
