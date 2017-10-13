@@ -5,7 +5,7 @@
         <a class="filter active" role="button" data-category="">all <span class="hidden-xs-down">experiences</span></a>
       </li>
       <li class="nav-item">
-        <a class="filter" role="button" data-category="ui"><span class="hidden-xs-down">interactive</span><span class="hidden-sm-up">ui</span></a>
+        <a class="filter" role="button" data-category="ui"><span class="hidden-xs-down">interactive</span><span class="hidden-sm-up">ui/ux</span></a>
       </li>
       <li class="nav-item">
         <a class="filter" role="button" data-category="viz">graphic</a>
