@@ -1,13 +1,13 @@
 ---
 title: Hey Agents
 date: 2017-10-13 11:44:00 +11:00
-published: false
+permalink: "/hey-agents/"
 categories:
 - dev
 - info
 - ui
-- viz
-snippet: A marketplace web app connecting property owners and real estate agents
+thumbnail image: "/assets/images/work_thumbnails/heyagents.jpg"
+snippet: A web app connecting property owners and real estate agents
 description: Hey Agents, an in-house venture of We Are Visionists, is a two-sided
   marketplace that connects vetted property owners with real estate agents, anonymously.
   From early stage idea to full-fledged beta, I lead design and development, managing
