@@ -1,7 +1,6 @@
 ---
 title: Better Caring
 date: 2017-10-12 21:24:00 +11:00
-published: true
 categories:
 - ui
 - dev
@@ -17,7 +16,7 @@ summary: Better Caring, a marketplace for aged-care and disability support worke
   to connect with people requiring their services, wanted to test an alternate design
   for their home page that better illustrates their core value propositions and resonates
   emotionally with their users.
-project date: 2017-06-01 11:00:00 +10:04
+project date: 2017-06-01 10:56:00 +10:00
 company: Better Caring
 ---
 
