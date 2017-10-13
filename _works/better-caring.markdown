@@ -1,7 +1,10 @@
 ---
 title: Better Caring
 date: 2017-10-12 21:24:00 +11:00
-published: false
+published: true
+categories:
+- ui
+- dev
 thumbnail image: "/assets/images/work_thumbnails/bettercaring.jpg"
 snippet: A  homepage redesign to foster an emotional connection
 description: Better Caring, a marketplace for aged-care and disability support workers
@@ -14,7 +17,7 @@ summary: Better Caring, a marketplace for aged-care and disability support worke
   to connect with people requiring their services, wanted to test an alternate design
   for their home page that better illustrates their core value propositions and resonates
   emotionally with their users.
-project date: 0001-05-31 23:04:52 +10:04
+project date: 2017-06-01 11:00:00 +10:04
 company: Better Caring
 ---
 
@@ -22,7 +25,10 @@ In short, Better Caring needed a way to better tell their story. A way to explai
 
 So not only would the new copy and narrative-building need to address all use cases and potential concerns, but accessibility would need to be a top priority in the implementation of the design. As most users visit with their mobile phones, responsiveness would be a priority as well.
 
-<p class="caption">A demonstration of the final developed page on desktop</p>
+<video width="100%" height="auto" controls class="mt-4">
+ <source src="/resources/better-caring/desktopdemo.mp4" type="video/mp4">
+</video>
+<p class="caption mt-2">A demonstration of the final developed page on desktop</p>
 
 ## The narrative
 Most products and services don't market themselves but the intangibles they provide. Airbnb doesn't market its spaces but the sense of belonging, Coca-Cola literally has the slogan "Taste the feeling", and a Better Caring competitor's focus is on finding support workers with shared interests.
@@ -35,7 +41,7 @@ By introducing testimonials where the emphasis is on the support workers and ben
 ![Testimonial.png](/uploads/Testimonial.png)
 <p class="caption">One of the included testimonials</p>
 
-This appeals to the very human desire for strong relationships and aspirations of independence, resonating with both people needing support and their families. It simultaneously emphasises the difference that support workers can make in someone's life, appealing to the contractors who make up the other side of the marketplace. 
+This appeals to the very human desire for strong relationships and aspirations of independence, resonating with both people needing support and their families. It simultaneously emphasises the difference that support workers can make in someone's life, appealing to the contractors who make up the other side of the marketplace.
 
 ## Addressing concerns and building value
 However, narrative alone won't be enough to drive people to sign up for the marketplace. We would also need to address the primary concerns, such as the registration process, cost, vetting procedures, services offered, and of course, why they should use Better Caring over other options.
@@ -53,4 +59,7 @@ While I strive for accessible design in all of my projects, it was definitely an
 
 This high standard also included responsiveness testing for all mobile users, and of course, designing with a responsive framework in the first place. Particular consideration was given to hover and focus effects and how those experiences would translate to mobile.
 
-<p class="caption">A demonstration of the final developed page on mobile</p>
+<video width="375px" style="max-width: 100%" height="auto" controls class="mt-4">
+ <source src="/resources/better-caring/mobiledemo.mp4" type="video/mp4">
+</video>
+<p class="caption mt-2">A demonstration of the final developed page on mobile</p>
