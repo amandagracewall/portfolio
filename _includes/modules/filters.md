@@ -8,7 +8,7 @@
         <a class="filter" role="button" data-category="ui"><span class="hidden-xs-down">interactive</span><span class="hidden-sm-up">ui</span></a>
       </li>
       <li class="nav-item">
-        <a class="filter" role="button" data-category="viz">visual</a>
+        <a class="filter" role="button" data-category="viz">graphic</a>
       </li>
       <li class="nav-item">
         <a class="filter" role="button" data-category="info">info<span class="hidden-xs-down">rmation</span></a>
