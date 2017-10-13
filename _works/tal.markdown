@@ -1,9 +1,22 @@
 ---
 title: TAL
 date: 2017-10-13 18:40:00 +11:00
+categories:
+- ui
+- dev
+- viz
+thumbnail image: "/assets/images/work_thumbnails/tal.jpg"
 snippet: A campaign microsite for reserving skin-check appointments
-question: How can TAL SpotChecker participants easily book in skin-check appointments?
-project date: 2017-05-01 11:00:00 +10:00
+description: TAL SpotChecker was a multi-weekend campaign in summer 2016 to perform
+  free skin-checks at selected beaches Australia-wide. From the online booking engine
+  to the set-up on the beach, the entire digital and visual experience needed to represent
+  TAL's branding and high security standards.
+question: How can a skin-check be a brand experience from booking form to beach?
+summary: TAL SpotChecker was a multi-weekend campaign in summer 2016 to perform free
+  skin-checks at selected beaches Australia-wide. From the online booking engine to
+  the set-up on the beach, the entire digital and visual experience needed to represent
+  TAL's branding and high security standards.
+project date: 2017-11-01 11:00:00 +11:00
 company: We Are Visionists
 ---
 
