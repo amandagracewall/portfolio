@@ -1,5 +1,5 @@
 ---
-title: TAL SpotChecker
+title: TAL
 date: 2017-10-13 18:40:00 +11:00
 permalink: "/tal-spotchecker/"
 categories:
@@ -20,4 +20,3 @@ summary: TAL SpotChecker was a multi-weekend campaign in summer 2016 to perform 
 project date: 2016-11-01 11:00:00 +11:00
 company: We Are Visionists
 ---
-

@@ -1,8 +1,12 @@
 ---
-title: Helga's Say It With Sandwiches
+title: Helga's
 date: 2017-10-13 19:48:00 +11:00
+permalink: "/helgas-sandwiches/"
+categories:
+- ui
+- dev
 thumbnail image: "/assets/images/work_thumbnails/helgas.jpg"
-snippet: A sandwich sharing platform for a fundraising campaign
+snippet: An e-commerce microsite created for a sandwich sharing campaign
 description: Helga's Say It With Sandwiches campaign delivered hundreds of gourmet
   sandwiches throughout Sydney and Melbourne so that people could show they care with
   an act of kindness. The $5 sandwiches were sold via a Shopify microsite to raise
@@ -17,4 +21,3 @@ summary: Helga's Say It With Sandwiches campaign delivered hundreds of gourmet s
 project date: 2016-07-01 11:00:00 +10:00
 company: We Are Visionists
 ---
-
