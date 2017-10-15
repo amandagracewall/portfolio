@@ -17,8 +17,8 @@ summary: Better Caring, a marketplace for aged-care and disability support worke
   to connect with people requiring their services, wanted to test an alternate design
   for their home page that better illustrates their core value propositions and resonates
   emotionally with their users.
-project date: 2017-06-01 10:56:00 +10:00
-company: Better Caring
+project timeframe: Fall 2017
+company: "Better Caring via [We Are Visionists](http://wav.agency)"
 ---
 
 In short, Better Caring needed a way to better tell their story. A way to explain what they do in a way that places the narrative in the user's life, keeping in mind that their audience varies from people with disabilities to support workers to the children of aged parents.

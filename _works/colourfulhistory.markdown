@@ -17,7 +17,7 @@ summary: In this academic project, I worked with a JSON dataset containing a col
   of posters from the Cooper Hewitt Smithsonian Design Museum and ideated, designed,
   and developed a Processing program that illustrates the past century of American
   history through colour analysis.
-project date: 2014-10-01 10:00:00 +10:00
+project timeframe: Spring 2014
 company: Georgia Institute of Technology
 layout: work
 ---
@@ -41,7 +41,7 @@ Poster mode shows dot representations of each poster, coloured with the three do
 ![relationship.jpg](/uploads/relationship.jpg)
 <p class="caption">A thumbnail of the focused poster and its estimated colour relationship</p>
 
-Looking back, the limitations of [Processing](https://processing.org/) led to a few less than ideal interface choices, particularly in poster mode. There were some z-indexing issues which lead to posters being displayed behind the dots and prevented the colour relationship from being displayed as a tooltip with the poster, instead of floating in the menu bar. The efficiency and effectiveness of the colour analysis algorithms could also be improved, but flaws aside, the interface's storytelling abilities proved rather successful. 
+Looking back, the limitations of [Processing](https://processing.org/) led to a few less than ideal interface choices, particularly in poster mode. There were some z-indexing issues which lead to posters being displayed behind the dots and prevented the colour relationship from being displayed as a tooltip with the poster, instead of floating in the menu bar. The efficiency and effectiveness of the colour analysis algorithms could also be improved, but flaws aside, the interface's storytelling abilities proved rather successful.
 
 Since there is more than just one story to tell, the design encourages exploration. The consolidated interface and large, enticing slider give the user a jumping off point to start delving into the dataset. They can drill-down and examine the dataset in more detail through the tooltips. The expansive, moving canvas in poster mode also adds to this sense of exploration.
 

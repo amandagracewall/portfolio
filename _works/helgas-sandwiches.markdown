@@ -18,7 +18,6 @@ summary: Helga's Say It With Sandwiches campaign delivered hundreds of gourmet s
   of kindness. The $5 sandwiches were sold via a Shopify microsite to raise money
   for Food Bank Australia, and a virtual sandwich maker allowed people to show they
   care outside of the delivery zones.
-project date: 2016-07-01 11:00:00 +10:00
-company: We Are Visionists
+project timeframe: Winter 2016
+company: "Helga's Continental Bakehouse via [Hausmann](http://www.hausmann.com.au) and [We Are Visionists](http://wav.agency)"
 ---
-

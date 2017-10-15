@@ -15,7 +15,7 @@ summary: In this academic project, I redesigned the largely unreadable 2015 sche
   brochure for IndieCade, an international indie games festival. The redesign needed
   to contain all of the same information as the original while implementing a stronger
   hierarchy and enhancing readability and scannability.
-project date: 2016-03-01 11:00:00 +11:00
+project timeframe: Fall 2016
 company: Georgia Institute of Technology
 has slider?: true
 layout: work

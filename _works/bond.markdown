@@ -16,7 +16,7 @@ summary: Bond Intelligent Care, a mobile application that connects patients with
   their own applications. Since the SDK may be the first touchpoint for many users
   and the service is a higher involvement purchase, the experience must build user
   trust quickly through the onboarding process.
-project date: 2015-06-01 10:00:00 +10:00
+project timeframe: Winter 2015
 company: Alii Healthcare
 layout: work
 ---

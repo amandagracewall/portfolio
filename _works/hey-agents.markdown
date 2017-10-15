@@ -18,8 +18,8 @@ summary: Hey Agents, an in-house venture of We Are Visionists, is a two-sided ma
   that connects vetted property owners with real estate agents, anonymously. From
   early stage idea to full-fledged beta, I lead design and development, managing the
   product and crafting a viable web application and API.
-project date: 2017-09-01 11:00:00 +10:00
-company: Hey Agents | We Are Visionists
+project timeframe: Summer 2016 – Spring 2017
+company: "Hey Agents via [We Are Visionists](http://wav.agency)"
 ---
 
 While Hey Agents is still in its closed alpha, please [contact me](mailto:hello@amandagracewall.com) to receive the PDF version of this case.

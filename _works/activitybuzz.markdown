@@ -17,7 +17,7 @@ summary: Activity Buzz, an Atlanta-based startup, needed a brand identity to get
   providing an avenue for consumers to leave their feedback. The target market is
   primarily parents of children aged 5 - 12, though the design should not alienate
   other potential users.
-project date: 2015-03-01 11:00:00 +11:00
+project timeframe: Fall 2015
 company: Activity Buzz
 layout: work
 ---

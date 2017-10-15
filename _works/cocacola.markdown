@@ -19,7 +19,7 @@ summary: Coca-Cola Enterprises needed an experimental gesture menu prototype tha
   in Europe. But rather than asking how we could include gesture controls in the ordering
   experience, we should have asked how – or if – the experience could be improved
   by these controls.
-project date: 2015-07-01 10:00:00 +10:00
+project timeframe: Winter 2015
 company: Coca-Cola Enterprises
 layout: work
 ---
