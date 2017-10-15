@@ -18,5 +18,6 @@ summary: Whisky Loot, an in-house venture of We Are Visionists, is a subscriptio
   whisky tasters delivered monthly. To do this, it needed a heavily customised e-commerce
   solution and a brand implementation that's sophisticated yet inclusive.
 project timeframe: Summer 2016 – Spring 2017
-company: "Liquor Loot via [We Are Visionists](http://wav.agency)"
+company: Liquor Loot via [We Are Visionists](http://wav.agency)
 ---
+

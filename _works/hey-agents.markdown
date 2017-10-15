@@ -19,7 +19,7 @@ summary: Hey Agents, an in-house venture of We Are Visionists, is a two-sided ma
   early stage idea to full-fledged beta, I lead design and development, managing the
   product and crafting a viable web application and API.
 project timeframe: Summer 2016 – Spring 2017
-company: "Hey Agents via [We Are Visionists](http://wav.agency)"
+company: Hey Agents via [We Are Visionists](http://wav.agency)
 ---
 
 While Hey Agents is still in its closed alpha, please [contact me](mailto:hello@amandagracewall.com) to receive the PDF version of this case.

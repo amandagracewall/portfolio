@@ -8,9 +8,16 @@ categories:
 - dev
 thumbnail image: "/assets/images/work_thumbnails/gnibl.jpg"
 snippet: An e-commerce solution for subscription snack boxes
-description: "Gnibl, a healthy snack machine company, wanted to branch out into the subscription snack market with Gnibl Box. The new e-commerce experience should be comparable to the snack machine experience, with their signature colourful branding and health-driven messaging."
+description: Gnibl, a healthy snack machine company, wanted to branch out into the
+  subscription snack market with Gnibl Box. The new e-commerce experience should be
+  comparable to the snack machine experience, with their signature colourful branding
+  and health-driven messaging.
 question: How can a subscription snack service inspire healthy workplaces?
-summary: "Gnibl, a healthy snack machine company, wanted to branch out into the subscription snack market with [Gnibl Box](http://gniblbox.com.au). The new e-commerce experience should be comparable to the snack machine experience, with their signature colourful branding and health-driven messaging."
+summary: Gnibl, a healthy snack machine company, wanted to branch out into the subscription
+  snack market with [Gnibl Box](http://gniblbox.com.au). The new e-commerce experience
+  should be comparable to the snack machine experience, with their signature colourful
+  branding and health-driven messaging.
 project timeframe: Spring 2016
-company: "Gnibl via [We Are Visionists](http://wav.agency)"
+company: Gnibl via [We Are Visionists](http://wav.agency)
 ---
+

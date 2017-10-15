@@ -19,5 +19,7 @@ summary: Helga's Say It With Sandwiches campaign delivered hundreds of gourmet s
   for Food Bank Australia, and a virtual sandwich maker allowed people to show they
   care outside of the delivery zones.
 project timeframe: Winter 2016
-company: "Helga's Continental Bakehouse via [Hausmann](http://www.hausmann.com.au) and [We Are Visionists](http://wav.agency)"
+company: Helga's Continental Bakehouse via [Hausmann](http://www.hausmann.com.au)
+  and [We Are Visionists](http://wav.agency)
 ---
+

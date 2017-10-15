@@ -18,7 +18,7 @@ summary: Better Caring, a marketplace for aged-care and disability support worke
   for their home page that better illustrates their core value propositions and resonates
   emotionally with their users.
 project timeframe: Fall 2017
-company: "Better Caring via [We Are Visionists](http://wav.agency)"
+company: Better Caring via [We Are Visionists](http://wav.agency)
 ---
 
 In short, Better Caring needed a way to better tell their story. A way to explain what they do in a way that places the narrative in the user's life, keeping in mind that their audience varies from people with disabilities to support workers to the children of aged parents.

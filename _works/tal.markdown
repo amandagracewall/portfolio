@@ -18,5 +18,6 @@ summary: TAL SpotChecker was a multi-weekend campaign in summer 2016 to perform 
   the set-up on the beach, the entire digital and visual experience needed to represent
   TAL's branding and high security standards.
 project timeframe: Spring 2016
-company: "TAL via [Banter](http://banter.agency) and [We Are Visionists](http://wav.agency)"
+company: TAL via [Banter](http://banter.agency) and [We Are Visionists](http://wav.agency)
 ---
+
