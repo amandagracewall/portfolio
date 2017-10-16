@@ -1,7 +1,7 @@
 ---
 title: Bond Intelligent Care
 date: 2017-08-06 17:38:00 +10:00
-permalink: "/bond-intelligent-care/"
+permalink: "/work/bond-intelligent-care/"
 categories:
 - ui
 thumbnail image: "/assets/images/work_thumbnails/bond.jpg"
@@ -38,7 +38,7 @@ Humanizing the experience with a face – or even an anthropomorphised character
 		<span class="speaker"></span>
 	</div>
 	<div class="phone-screen">
-		<div class="screen">
+		<div class="screen no-scroll">
 			<img class="screens" src="/uploads/splash.jpg" width="100%">
 		</div>
 	</div>
@@ -65,7 +65,7 @@ Even if conversion for your product or service is less involved, there will stil
 		<span class="speaker"></span>
 	</div>
 	<div class="phone-screen">
-		<div class="screen">
+		<div class="screen no-scroll">
 			<img class="screens" src="/uploads/summary.jpg" width="100%">
 		</div>
 	</div>
@@ -87,7 +87,7 @@ Nothing proves something works better than a demo can. Launching the user's came
 		<span class="speaker"></span>
 	</div>
 	<div class="phone-screen">
-		<div class="screen">
+		<div class="screen no-scroll">
 			<img class="screens" src="/uploads/demo.jpg" width="100%">
 		</div>
 	</div>
@@ -107,7 +107,7 @@ Prepare the user for the permission request by telling them why you need it. And
 		<span class="speaker"></span>
 	</div>
 	<div class="phone-screen">
-		<div class="screen">
+		<div class="screen no-scroll">
 			<img class="screens" src="/uploads/priming.gif" width="100%">
 		</div>
 	</div>
@@ -131,7 +131,7 @@ The SDK draws inspiration from Uber's successful design, using the initial ratin
 		<span class="speaker"></span>
 	</div>
 	<div class="phone-screen">
-		<div class="screen">
+		<div class="screen no-scroll">
 			<img class="screens" src="/uploads/positive.jpg" width="100%">
 		</div>
 	</div>

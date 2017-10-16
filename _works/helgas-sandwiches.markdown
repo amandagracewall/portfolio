@@ -1,7 +1,7 @@
 ---
 title: Helga's
 date: 2017-10-13 19:48:00 +11:00
-permalink: "/helgas-sandwiches/"
+permalink: "/work/helgas-sandwiches/"
 categories:
 - dev
 - viz
@@ -26,7 +26,19 @@ project timeframe: Winter 2016
 
 To spread the love (and deliver the sandwiches), Helga's needed to securely collect payment and recipient info. This e-commerce solution was implemented through a branded Shopify theme with custom functionality.
 
-![helgashome.jpg](/uploads/helgashome.jpg)
+
+<div class="phone-shape small animated desktop slideInRight">
+	<div class="top-details">
+		<span class="camera"></span>
+		<span class="speaker"></span>
+	</div>
+	<div class="phone-screen">
+		<div class="screen no-scroll">
+			<img class="screens" src="/uploads/helgashome.jpg" width="100%">
+		</div>
+	</div>
+	<div class="circle-button"></div>
+</div>
 <p class="caption">The mobile home page</p>
 
 To ensure that sandwiches were purchased for people within the delivery zone, an initial screening process asked for the recipient's postcode. At this stage, we also asked for the purchaser's email address to cross-reference other purchases with a custom-built Shopify app to enforce the limit of one sandwich per customer.

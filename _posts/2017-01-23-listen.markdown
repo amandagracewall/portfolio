@@ -1,7 +1,7 @@
 ---
 title: 'How to Stop Designing Stupid Products: Listen to Your User'
 date: 2017-01-23 22:11:00 +11:00
-permalink: "/posts/design-better-products-by-listening/"
+permalink: "/blog/design-better-products-by-listening/"
 description: The best entrepreneurs don’t know better than their users – they know
   how to listen to them. Here's some quick tips on how to improve your listening skills.
 short title: Listen to Your User

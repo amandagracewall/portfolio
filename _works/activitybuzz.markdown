@@ -1,7 +1,7 @@
 ---
 title: Activity Buzz
 date: 2017-08-06 17:38:00 +10:00
-permalink: "/activity-buzz/"
+permalink: "/work/activity-buzz/"
 categories:
 - viz
 thumbnail image: "/assets/images/work_thumbnails/buzz.jpg"

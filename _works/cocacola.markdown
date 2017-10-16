@@ -1,7 +1,7 @@
 ---
 title: Coca-Cola Motion Menu
 date: 2017-08-06 17:38:00 +10:00
-permalink: "/coca-cola-motion-menu/"
+permalink: "/work/coca-cola-motion-menu/"
 categories:
 - ui
 - dev

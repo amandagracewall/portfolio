@@ -1,7 +1,7 @@
 ---
 title: A Colorful History
 date: 2017-08-06 17:38:00 +10:00
-permalink: "/colorful-history/"
+permalink: "/work/colorful-history/"
 categories:
 - info
 - ui

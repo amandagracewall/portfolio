@@ -1,7 +1,7 @@
 ---
 title: 'Lessons from Hollywood: How to Write Diverse User Personas'
 date: 2017-02-26 22:11:00 +11:00
-permalink: "/posts/how-to-write-diverse-user-personas/"
+permalink: "/blog/how-to-write-diverse-user-personas/"
 description: User personas – like many other things in this world – have a bit of
   a diversity problem. Here’s what we can learn from this year’s Oscars.
 short title: Diverse User Personas

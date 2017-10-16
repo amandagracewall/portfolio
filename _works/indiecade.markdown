@@ -1,7 +1,7 @@
 ---
 title: IndieCade
 date: 2017-08-06 17:38:00 +10:00
-permalink: "/indiecade/"
+permalink: "/work/indiecade/"
 categories:
 - info
 thumbnail image: "/assets/images/work_thumbnails/indiecade.jpg"

@@ -18,27 +18,27 @@ defaults:
   values:
     layout: post
     permalink: "/blog/:title/"
-    description: 
+    description:
     is_post: true
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    description: 
+    description:
 - scope:
     path: ''
     type: works
   values:
     layout: work
-    permalink: "/:title/"
-    thumbnail image: 
-    snippet: 
-    description: 
-    question: 
-    summary: 
-    project date: 
-    company: 
+    permalink: "/work/:title/"
+    thumbnail image:
+    snippet:
+    description:
+    question:
+    summary:
+    project timeframe:
+    company:
 permalink: pretty
 breadcrumbs:
   root:

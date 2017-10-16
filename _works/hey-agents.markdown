@@ -1,7 +1,7 @@
 ---
 title: Hey Agents
 date: 2017-10-13 11:44:00 +11:00
-permalink: "/hey-agents/"
+permalink: "/work/hey-agents/"
 categories:
 - dev
 - info

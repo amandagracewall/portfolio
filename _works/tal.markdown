@@ -1,7 +1,7 @@
 ---
 title: TAL
 date: 2017-10-13 18:40:00 +11:00
-permalink: "/tal-spotchecker/"
+permalink: "/work/tal-spotchecker/"
 categories:
 - dev
 - viz

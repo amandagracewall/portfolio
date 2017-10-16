@@ -1,7 +1,7 @@
 ---
 title: Gnibl Box
 date: 2017-10-14 12:30:00 +11:00
-permalink: "/gnibl-box/"
+permalink: "/work/gnibl-box/"
 categories:
 - ui
 - viz
@@ -20,4 +20,3 @@ summary: Gnibl, a healthy snack machine company, wanted to branch out into the s
 project timeframe: Spring 2016
 company: Gnibl via [We Are Visionists](http://wav.agency)
 ---
-
