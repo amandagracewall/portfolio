@@ -20,3 +20,4 @@ summary: Whisky Loot, an in-house venture of We Are Visionists, is a subscriptio
 project timeframe: Summer 2016 – Spring 2017
 company: Liquor Loot via [We Are Visionists](http://wav.agency)
 ---
+
