@@ -16,8 +16,8 @@ question: How can we build a platform that benefits both property owners and rea
   estate agents?
 summary: Hey Agents, an in-house venture of We Are Visionists, is a two-sided marketplace
   that connects vetted property owners with real estate agents, anonymously. From
-  early stage idea to full-fledged beta, I lead the design and development, managing the
-  product and crafting a viable web application and API.
+  early stage idea to full-fledged beta, I lead the design and development, managing
+  the product and crafting a viable web application and API.
 project timeframe: Summer 2016 – Spring 2017
 company: Hey Agents via [We Are Visionists](http://wav.agency)
 ---
