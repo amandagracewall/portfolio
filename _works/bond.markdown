@@ -32,7 +32,18 @@ This was a challenge that required encoding trustworthiness in the smallest of d
 ### Introduce a face
 Humanizing the experience with a face – or even an anthropomorphised character, [à la Duolingo's Duo the Owl](https://www.useronboard.com/how-duolingo-onboards-new-users/?slide=22) – can help build an emotional connection with the user. This may make the user more receptive, as they're now answering to a "person" rather than just a program.
 
-![splash.jpg](/uploads/splash.jpg)
+<div class="phone-shape small animated desktop slideInRight">
+	<div class="top-details">
+		<span class="camera"></span>
+		<span class="speaker"></span>
+	</div>
+	<div class="phone-screen">
+		<div class="screen">
+			<img class="screens" src="/uploads/splash.jpg" width="100%">
+		</div>
+	</div>
+	<div class="circle-button"></div>
+</div>
 <p class="caption">Face? ✔ Direct copy? ✔ Setting expectations? ✔</p>
 
 ### Use your voice
@@ -48,7 +59,18 @@ With a high involvement purchase, people are going to have questions. Can I use 
 
 Even if conversion for your product or service is less involved, there will still be questions. Can I change this  setting later? Why does the trial need a credit card? Go through the process with a potential user and see what questions they ask, and then go back and try to pre-empt them.
 
-![summary.jpg](/uploads/summary.jpg)
+<div class="phone-shape small animated desktop slideInRight">
+	<div class="top-details">
+		<span class="camera"></span>
+		<span class="speaker"></span>
+	</div>
+	<div class="phone-screen">
+		<div class="screen">
+			<img class="screens" src="/uploads/summary.jpg" width="100%">
+		</div>
+	</div>
+	<div class="circle-button"></div>
+</div>
 <p class="caption">Prominent branding? ✔ Anticipating questions? ✔ Setting expectations? ✔</p>
 
 ### Set expectations
@@ -59,7 +81,18 @@ No one likes feeling that something wasn't what they expected. Progress bars and
 ### Demo what you can
 Nothing proves something works better than a demo can. Launching the user's camera before finalizing the purchase is a good way to preview and familiarise the user with the video call functionality and reduce any anxiety surrounding the technology.
 
-![demo.jpg](/uploads/demo.jpg)
+<div class="phone-shape small animated desktop slideInRight">
+	<div class="top-details">
+		<span class="camera"></span>
+		<span class="speaker"></span>
+	</div>
+	<div class="phone-screen">
+		<div class="screen">
+			<img class="screens" src="/uploads/demo.jpg" width="100%">
+		</div>
+	</div>
+	<div class="circle-button"></div>
+</div>
 <p class="caption">Demo? ✔ Direct copy? ✔ Setting expectations? ✔</p>
 
 ### Provide validation
@@ -68,7 +101,18 @@ Pre-empt feelings of doubt or anxiety by giving them feedback throughout the pro
 ### Prime your permissions
 Prepare the user for the permission request by telling them why you need it. And to avoid bombarding them with pop-ups, allow them to initiate the permission pop-up with a button or checkbox. Once again, let the user feel in control of the experience.
 
-![priming.gif](/uploads/priming.gif)
+<div class="phone-shape small animated desktop slideInRight">
+	<div class="top-details">
+		<span class="camera"></span>
+		<span class="speaker"></span>
+	</div>
+	<div class="phone-screen">
+		<div class="screen">
+			<img class="screens" src="/uploads/priming.gif" width="100%">
+		</div>
+	</div>
+	<div class="circle-button"></div>
+</div>
 <p class="caption">Permissions priming? ✔ Validation? ✔</p>
 
 ### Leverage existing trust
@@ -81,7 +125,18 @@ An excellent way to implement this is by opening an immediate feedback channel. 
 
 The SDK draws inspiration from Uber's successful design, using the initial rating to determine whether to ask for positive feedback or targeted criticism. If the user's experience was positive, we'll ask them to share it with friends. If not, we'll offer to contact them to amend the problem in attempts to rebuild the trust lost in the interaction.
 
-![positive.jpg](/uploads/positive.jpg)
+<div class="phone-shape small animated desktop slideInRight">
+	<div class="top-details">
+		<span class="camera"></span>
+		<span class="speaker"></span>
+	</div>
+	<div class="phone-screen">
+		<div class="screen">
+			<img class="screens" src="/uploads/positive.jpg" width="100%">
+		</div>
+	</div>
+	<div class="circle-button"></div>
+</div>
 <p class="caption">Offboarding? ✔ Targeted feedback? ✔</p>
 
 If you have Sketch, you can [download the full project here](/resources/bond/Bond%20Intelligent%20Care%20SDK.sketch). If not, you can still [view the screens in this PDF](/resources/bond/Bond%20Intelligent%20Care%20SDK.pdf).

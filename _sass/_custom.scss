@@ -27,10 +27,12 @@ section {
   .caption {
     font-style: italic;
     margin-bottom: 2rem;
+    text-align: center;
   }
   img {
     max-width: 100%;
     margin: 1rem auto 0;
+    display: block;
   }
 
   h2 {
@@ -288,4 +290,66 @@ ul.palette {
   border-radius: 25px;
   padding: 10px;
   border: 1px solid $gray-lighter;
+}
+
+//phone
+.phone-shape {
+  max-width: 270px;
+  height: auto;
+  max-height: 575px;
+  border-radius: 40px;
+  border: 1px solid $gray-light;
+  padding: 60px 10px 5px;
+  position: relative;
+  margin: 20px auto;
+  .top-details {
+    position: absolute;
+    left: 0;
+    top: 17px;
+    width: 100%;
+    .camera {
+      height: 7px;
+      width: 7px;
+      margin: auto;
+    }
+    .speaker {
+      height: 7px;
+      width: 90px;
+      margin: 10px auto 0;
+    }
+  }
+  .phone-screen {
+    overflow: hidden;
+    height: 100%;
+    max-height: 400px;
+    background-color: #fff;
+    position: relative;
+    .screen {
+      overflow-y: scroll;
+      width: 100%;
+      height: 100%;
+      max-height: 400px;
+      background-color: transparent;
+      position: relative;
+      &.no-scroll {
+        overflow-y: hidden;
+      }
+      img, video {
+        display: block;
+        margin: 0;
+      }
+    }
+  }
+  .circle-button {
+    height: 40px;
+    width: 40px;
+    background: $gray-light;
+    margin: 10px auto;
+    border-radius: 100px;
+  }
+  .camera, .circle-button, .speaker {
+    border-radius: 100px;
+    display: block;
+    background-color: $gray-light;
+  }
 }

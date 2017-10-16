@@ -30,6 +30,18 @@ The project required a microsite that would allow users to book a skin-check app
 
 By liaising with TAL designers and following brand guidelines, the resulting design seamlessly integrated with TAL's existing online presence.
 
+<div class="phone-shape small animated desktop slideInRight">
+	<div class="top-details">
+		<span class="camera"></span>
+		<span class="speaker"></span>
+	</div>
+	<div class="phone-screen">
+		<div class="screen">
+			<img class="screens" src="/resources/tal/mobile.jpg" width="100%">
+		</div>
+	</div>
+	<div class="circle-button"></div>
+</div>
 <p class="caption">The mobile version of the SpotChecker microsite home page</p>
 
 Meeting brand expectations for the site was the easy part – implementing a booking solution to meet TAL's security and performance standards was much trickier.
@@ -41,6 +53,3 @@ So the microsite has sent people to the beach – now how does the brand experi
 
 ![tal-container.jpg](/uploads/tal-container.jpg)
 <p class="caption">The in-situ mockup and the design in-action</p>
-
-
-

@@ -9,8 +9,7 @@ categories:
 thumbnail image: "/assets/images/work_thumbnails/helgas.jpg"
 snippet: An e-commerce microsite created for a sandwich sharing campaign
 description: Helga's Say It With Sandwiches campaign delivered hundreds of gourmet
-  sandwiches throughout Sydney and Melbourne so that people could show they care with
-  an act of kindness. The $6 sandwiches were sold via a Shopify microsite to raise
+  sandwiches throughout Sydney and Melbourne so that people could show they care with an act of kindness. The $6 sandwiches were sold via a Shopify microsite to raise
   money for Food Bank Australia, and a virtual sandwich maker allowed people to show
   they care outside of the delivery zones.
 question: How can someone show they care with a sandwich, even from far away?
@@ -33,11 +32,14 @@ To ensure that sandwiches were purchased for people within the delivery zone, an
 
 Should the user's IP address or the recipient's postcode be outside of the delivery zone, the user would be prompted to create and share a virtual sandwich.
 
-<p class="caption">A video demonstrating the virtual sandwich interface</p> 
+<video width="100%" height="auto" controls autoplay loop class="mt-4">
+ <source src="/resources/helgas/demo.mp4" type="video/mp4">
+</video>
+<p class="caption mt-2">A video demonstrating the virtual sandwich interface</p>
 
 Using the interactive interface, the user can send their bespoke virtual sandwich with a note via Facebook. This required a custom application to generate an image from the HTML to then attach to the Facebook share.
 
-[helgas-fb-share](/uploads/helgas-fb-share)
+![helgas-fb-share](/uploads/helgas-fb-share)
 <p class="caption">The virtual sandwich Facebook share functionality in action</p>
 
 Over 500 sandwiches were sent to hungry customers in Sydney and Melbourne plus thousands of virtual sandwiches shared socially, with all revenues donated to Food Bank Australia.

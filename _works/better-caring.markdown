@@ -49,7 +49,7 @@ However, narrative alone won't be enough to drive people to sign up for the mark
 To illustrate the differentiation, the key point we'd need to make is the benefits of the marketplace model. While the average user may not care about the structure of the platform, they do care about the fact that it results in less cost, and therefore more hours of support, for them or their loved ones, as well as better pay for the workers. So naturally, it made sense to intertwine pricing concerns with marketplace benefits to build this unique value proposition.
 
 ![pricing.jpg](/uploads/pricing.jpg)
-<p class="caption">The pricing section, with a graph making an emotional plea with the additional hours that the savings can afford</p>
+<p class="caption">A graph making an emotional case with the additional hours that savings can afford</p>
 
 ## Accessibility and responsiveness
 While I strive for accessible design in all of my projects, it was definitely an utmost priority for this redesign and development. From large and scalable fonts to keyboard accessibility to semantic HTML to minimal animation to labels and alt text, research and accessibility testing was completed to ensure a high standard for all users.
@@ -59,7 +59,16 @@ While I strive for accessible design in all of my projects, it was definitely an
 
 This high standard also included responsiveness testing for all mobile users, and of course, designing with a responsive framework in the first place. Particular consideration was given to hover and focus effects and how those experiences would translate to mobile.
 
-<video width="375px" style="max-width: 100%" height="auto" controls class="mt-4">
- <source src="/resources/better-caring/mobiledemo.mp4" type="video/mp4">
-</video>
+<div class="phone-shape small animated desktop slideInRight">
+	<div class="top-details">
+		<span class="camera"></span>
+		<span class="speaker"></span>
+	</div>
+	<div class="phone-screen">
+		<div class="screen">
+      <img class="screens" src="/resources/better-caring/mobile.jpg" width="100%">
+		</div>
+	</div>
+	<div class="circle-button"></div>
+</div>
 <p class="caption mt-2">A demonstration of the final developed page on mobile</p>
