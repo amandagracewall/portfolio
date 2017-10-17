@@ -54,7 +54,7 @@ Which brings us to maintenance – a well-developed site should be simple for c
 
 > I don't believe that a client should have to rely on a developer to make minor changes to their site, and I implement that philosophy through highly configurable templating.
 
-The Gnibl Box site was built using [Siteleaf](https://www.siteleaf.com/), a Jekyll-based content-management system I recommend 1000 times over for simple, static builds. The client-facing backend is much cleaner and more intuitive than Wordpress, and the hosting costs are practically nothing for a static site.
+The Gnibl Box site was built using [Siteleaf](https://www.siteleaf.com/), a Jekyll-based content-management system I recommend 1000 times over for simple, static builds. The client-facing backend is much cleaner and more intuitive than WordPress, and the hosting costs are practically nothing for a static site.
 
 However, great CMS is only as good as its template, and that's where my philosophy kicks in. All of the headers, body copy, and CTAs are editable fields. Sections such as the testimonials only display if they contain content, and FAQs can easily be added or removed as the client pleases.
 
