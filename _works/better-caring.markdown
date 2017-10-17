@@ -25,8 +25,8 @@ In short, Better Caring needed a way to better tell their story. A way to explai
 
 So not only would the new copy and narrative-building need to address all use cases and potential concerns, but accessibility would need to be a top priority in the implementation of the design. As most users visit with their mobile phones, responsiveness would be a priority as well.
 
-<video width="100%" height="auto" controls class="mt-4">
- <source src="/resources/better-caring/desktopdemo.mp4" type="video/mp4">
+<video width="100%" height="auto" controls autoplay loop class="mt-4">
+ <source type="video/mp4" src="/resources/better-caring/bettercaring_demo.mp4">
 </video>
 <p class="caption mt-2">A demonstration of the final developed page on desktop</p>
 
@@ -59,7 +59,7 @@ While I strive for accessible design in all of my projects, it was definitely an
 
 This high standard also included responsiveness testing for all mobile users, and of course, designing with a responsive framework in the first place. Particular consideration was given to hover and focus effects and how those experiences would translate to mobile.
 
-<div class="phone-shape small animated desktop slideInRight">
+<div class="phone-shape">
 	<div class="top-details">
 		<span class="camera"></span>
 		<span class="speaker"></span>

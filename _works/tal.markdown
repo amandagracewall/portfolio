@@ -30,7 +30,7 @@ The project required a microsite that would allow users to book a skin-check app
 
 By liaising with TAL designers and following brand guidelines, the resulting design seamlessly integrated with TAL's existing online presence.
 
-<div class="phone-shape small animated desktop slideInRight">
+<div class="phone-shape">
 	<div class="top-details">
 		<span class="camera"></span>
 		<span class="speaker"></span>

@@ -25,7 +25,7 @@ layout: work
 There were two kinds of stories to tell with this collection – the way that posters had changed over time, and the stories in the individual compositions themselves. To tell these stories, the program analyzes colour composition and presents the data via two different modes: spectrum and poster.
 
 <video width="100%" height="auto" controls autoplay loop class="mt-4">
- <source src="/resources/colorfulhistory/Project%20Preview.mp4" type="video/mp4">
+ <source type="video/mp4" src="/resources/colorfulhistory/colorfulhistory_demo.mp4">
 </video>
 <p class="caption mt-2">A demonstration of the final project</p>
 

@@ -27,7 +27,7 @@ project timeframe: Winter 2016
 To spread the love (and deliver the sandwiches), Helga's needed to securely collect payment and recipient info. This e-commerce solution was implemented through a branded Shopify theme with custom functionality.
 
 
-<div class="phone-shape small animated desktop slideInRight">
+<div class="phone-shape">
 	<div class="top-details">
 		<span class="camera"></span>
 		<span class="speaker"></span>
@@ -46,7 +46,7 @@ To ensure that sandwiches were purchased for people within the delivery zone, an
 Should the user's IP address or the recipient's postcode be outside of the delivery zone, the user would be prompted to create and share a virtual sandwich.
 
 <video width="100%" height="auto" controls autoplay loop class="mt-4">
- <source src="/resources/helgas/demo.mp4" type="video/mp4">
+ <source type="video/mp4" src="/resources/helgas/helgas_demo.mp4">
 </video>
 <p class="caption mt-2">A video demonstrating the virtual sandwich interface</p>
 
