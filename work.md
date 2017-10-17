@@ -1,5 +1,5 @@
 ---
-title: amanda grace – experience design
+title: amanda grace – work
 date: 2017-07-24 19:11:00 +10:00
 permalink: "/work/"
 description: Selected case studies across interactive, visual, and information design
