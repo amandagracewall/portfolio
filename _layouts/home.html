@@ -31,7 +31,8 @@
         {% include modules/filters.md %}
         <div class="container">
           <div class="row works">
-            {% for work in site.works %}
+            {% assign sorted_works = site.works | sort:"position" %}
+            {% for work in sorted_works %}
               {% include modules/work_card.md %}
             {% endfor %}
           </div>
