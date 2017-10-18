@@ -5,7 +5,7 @@ permalink: "/work/better-caring/"
 categories:
 - ui
 - dev
-position: 7
+position: 5
 thumbnail image: "/assets/images/work_thumbnails/bettercaring.jpg"
 snippet: A  homepage redesign to foster an emotional connection
 description: Better Caring, a marketplace for aged-care and disability support workers
