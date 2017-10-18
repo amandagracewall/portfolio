@@ -6,7 +6,7 @@ categories:
 - info
 - ui
 - dev
-position: 8
+position: 9
 thumbnail image: "/assets/images/work_thumbnails/colorful.jpg"
 snippet: An interactive portrait of Cooper Hewitt's poster collection
 description: In this academic project, I worked with a JSON dataset containing a collection
