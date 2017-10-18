@@ -6,7 +6,7 @@ categories:
 - ui
 - viz
 - dev
-position: 1
+position: 2
 thumbnail image: "/assets/images/work_thumbnails/loot.jpg"
 snippet: An e-commerce solution for a whisky subscription service
 description: Whisky Loot, an in-house venture of We Are Visionists, is a subscription
