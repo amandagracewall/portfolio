@@ -4,7 +4,7 @@ date: 2017-08-06 17:38:00 +10:00
 permalink: "/work/activity-buzz/"
 categories:
 - viz
-position: 2
+position: 3
 thumbnail image: "/assets/images/work_thumbnails/buzz.jpg"
 snippet: A playful brand built for an activity directory
 description: Activity Buzz, an Atlanta-based startup, needed a brand identity to get

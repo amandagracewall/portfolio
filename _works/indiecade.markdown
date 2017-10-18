@@ -4,7 +4,7 @@ date: 2017-08-06 17:38:00 +10:00
 permalink: "/work/indiecade/"
 categories:
 - info
-position: 4
+position: 5
 thumbnail image: "/assets/images/work_thumbnails/indiecade.jpg"
 snippet: An academic redesign of an unreadable schedule brochure
 description: In this academic project, I redesigned the largely unreadable 2015 schedule

@@ -6,7 +6,7 @@ categories:
 - dev
 - viz
 - ui
-position: 7
+position: 2
 thumbnail image: "/assets/images/work_thumbnails/tal.jpg"
 snippet: A campaign microsite for reserving skin-check appointments
 description: TAL SpotChecker was a multi-weekend campaign to perform free skin-checks
