@@ -4,6 +4,7 @@ date: 2017-08-06 17:38:00 +10:00
 permalink: "/work/bond-intelligent-care/"
 categories:
 - ui
+position: 9
 thumbnail image: "/assets/images/work_thumbnails/bond.jpg"
 snippet: An SDK designed to build trust in the service and its physicians
 description: Bond Intelligent Care, a mobile application that connects patients with

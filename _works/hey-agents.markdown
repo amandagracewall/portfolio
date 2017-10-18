@@ -6,6 +6,7 @@ categories:
 - dev
 - info
 - ui
+position: 6
 thumbnail image: "/assets/images/work_thumbnails/heyagents.jpg"
 snippet: A web app connecting property owners and real estate agents
 description: Hey Agents, an in-house venture of We Are Visionists, is a two-sided

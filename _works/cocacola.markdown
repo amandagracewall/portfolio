@@ -5,6 +5,7 @@ permalink: "/work/coca-cola-motion-menu/"
 categories:
 - ui
 - dev
+position: 1
 thumbnail image: "/assets/images/work_thumbnails/cce.jpg"
 snippet: An ordering interface built with Microsoft Kinect technology
 description: Coca-Cola Enterprises needed an experimental gesture menu prototype that

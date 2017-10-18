@@ -6,6 +6,7 @@ categories:
 - dev
 - viz
 - ui
+position: 8
 thumbnail image: "/assets/images/work_thumbnails/helgas.jpg"
 snippet: An e-commerce microsite created for a sandwich sharing campaign
 description: Helga's Say It With Sandwiches campaign delivered hundreds of gourmet
