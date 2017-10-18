@@ -29,15 +29,39 @@ This solution was achieved through [LemonStand](http://blog.lemonstand.com/juicy
 ## The Whisky Loot experience
 With the backend solved, the next step was creating a branded experience for the user to purchase and manage their subscription.
 
+<div class="phone-shape">
+	<div class="top-details">
+		<span class="camera"></span>
+		<span class="speaker"></span>
+	</div>
+	<div class="phone-screen">
+		<div class="screen">
+			<img class="screens" src="/resources/whiskyloot/home.jpg" width="100%">
+		</div>
+	</div>
+	<div class="circle-button"></div>
+</div>
 <p class="caption">The mobile version of Whisky Loot's homepage</p>
 
-Visually, I designed a site that strove to be less masculine than most whisky imagery, using cooler tones, pops of colour, and less organic texture (looking at you, wood paneling).
+Through referencing brand and tone-of-voice guidelines, I created a visual style for the website that's distinctly Whisky Loot. The design strove to be less masculine than most whisky imagery, using cooler tones, pops of colour, and less organic texture (looking at you, wood paneling).
 
 ![whisky_masculine_nick_offerman.jpg](/uploads/whisky_masculine_nick_offerman.jpg)
-<p class="caption">[Lagavulin's Nick Offerman ad](https://www.youtube.com/watch?v=LS-ErOKpO4E) is a prime example of masculine whisky advertising</p>
+<p class="caption"><a href="https://www.youtube.com/watch?v=LS-ErOKpO4E">Lagavulin's Nick Offerman ad</a> is a prime example of masculine whisky advertising</p>
 
 The design also uses a lot of natural imagery, typically mountains, to create a sense of aspiration and exploration. The copy simultaneously hints at a destination – finding your favourite whisky – but celebrates the delicious journey that Whisky Loot will take you on to get there. Whisky Loot isn't just giving you whisky, it's giving you knowledge of whisky – something much more valuable.
 
+<div class="phone-shape">
+	<div class="top-details">
+		<span class="camera"></span>
+		<span class="speaker"></span>
+	</div>
+	<div class="phone-screen">
+		<div class="screen">
+			<img class="screens" src="/resources/whiskyloot/signup.jpg" width="100%">
+		</div>
+	</div>
+	<div class="circle-button"></div>
+</div>
 <p class="caption">The Whisky Loot signup page. Mountains? ✔ Aspirational copy? ✔</p>
 
 For a beverage that has long had an air of exclusivity – to women and amateurs alike – the design is meant to feel open, inviting, and inclusive, yet premium.
@@ -45,8 +69,6 @@ For a beverage that has long had an air of exclusivity – to women and amateurs
 This feel continues through to the packaging, with a crisp white box and gold foil details. The detailed product labels and notes as well as the included tasting-note booklet continue to emphasise knowledge, learning, and growth.
 
 ![instagram.jpg](/uploads/instagram.jpg)
-<p class="caption">A great product flat lay taken by [@kyandkey](https://www.instagram.com/kyandkey/)</p>
+<p class="caption">A great product flat lay taken by <a href="https://www.instagram.com/kyandkey/">@kyandkey</a></p>
 
 To see the full site or to start your whisky journey, visit [whiskyloot.com](https://whiskyloot.com).
-
-
