@@ -6,7 +6,7 @@ categories:
 - ui
 - viz
 - dev
-position: 6
+position: 7
 thumbnail image: "/assets/images/work_thumbnails/gnibl.jpg"
 snippet: An e-commerce solution for subscription snack boxes
 description: Gnibl, a healthy snack machine company, wanted to branch out into the
