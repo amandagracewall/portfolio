@@ -163,3 +163,62 @@ window.addEventListener('keydown', handleFirstTab);
 if ($("#slider").length) {
   $("#slider").twentytwenty();
 }
+
+$("#password").validate({
+  onkeyup: false,
+  rules: {
+    password: {
+      required: true
+    }
+  },
+  messages: {
+    password: "Oops, looks like you're forgetting something."
+  },
+  submitHandler: function(form) {
+    $.ajax({
+      url: "https://qimhcviomf.execute-api.us-east-1.amazonaws.com/prod/authenticatePassword/",
+      method: "POST",
+      data: getFormData($(form)),
+      success: function(res) {
+        $(".hide-password-success").fadeOut(500, function() {
+          $("#content").hide();
+          $("#content").html(res.html);
+          $("#content").fadeIn(500);
+          $(".ha-sticky").find(".screen").scroll(function() {
+            if (this.scrollTop >= 382 && !$(".ha-sticky-header").hasClass("stickied")) {
+              $(".ha-sticky-header").addClass("stickied");
+            } else if (this.scrollTop < 382 && $(".ha-sticky-header").hasClass("stickied")) {
+              $(".ha-sticky-header").removeClass("stickied");
+            }
+            if (this.scrollTop >= 440 && !$(".ha-sticky-cta").hasClass("stickied")) {
+              $(".ha-sticky-cta").addClass("stickied");
+            } else if (this.scrollTop < 440 && $(".ha-sticky-cta").hasClass("stickied")) {
+              $(".ha-sticky-cta").removeClass("stickied");
+            }
+          });
+        });
+      },
+      error: function() {
+        $("#messages").html("That password is invalid – check for typos or contact Amanda Grace to resolve the issue.");
+      }
+    });
+  },
+  showErrors: function(errorMap, errorList) {
+    if (errorList[0]) {
+      var msg = errorList[0].message;
+     $("#messages").html(msg);
+   } else {
+     $("#messages").html("");
+   }
+ }
+});
+
+function getFormData($form){
+  var unindexed_array = $form.serializeArray();
+  var indexed_array = {};
+
+  $.map(unindexed_array, function(n, i){
+      indexed_array[n['name']] = n['value'];
+  });
+  return JSON.stringify(indexed_array);
+}

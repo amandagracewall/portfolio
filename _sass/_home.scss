@@ -190,25 +190,6 @@
   :-moz-placeholder { /* Firefox 18- */
     color: $text-muted;
   }
-
-  input:not([type=submit]), select {
-    border: 0;
-    border-bottom: 2px solid $gray-light;
-    transition: .2s;
-    border-radius: 0;
-    background: none;
-    font-family: $font-family-serif;
-    color: $gray-dark;
-    line-height: 1.5rem;
-    &:focus {
-      border-color: $brand-primary;
-      outline: none;
-    }
-    @include media-breakpoint-down(sm) {
-      line-height: 1.1rem;
-    }
-    text-transform: lowercase;
-  }
   input[name=name] {
     width: calc(35% - 50px);
     @include media-breakpoint-down(sm) {
@@ -260,6 +241,25 @@
     width: calc(100% - 130px);
     margin-left: 10px;
   }
+
+  input:not([type=submit]), select {
+    border: 0;
+    border-bottom: 2px solid $gray-light;
+    transition: .2s;
+    border-radius: 0;
+    background: none;
+    font-family: $font-family-serif;
+    color: $gray-dark;
+    line-height: 1.5rem;
+    &:focus {
+      border-color: $brand-primary;
+      outline: none;
+    }
+    @include media-breakpoint-down(sm) {
+      line-height: 1.1rem;
+    }
+    text-transform: lowercase;
+  }
 }
 
 #map {
@@ -282,5 +282,23 @@
       top: 15vw;
       transform: translateX(-50%);
     }
+  }
+}
+
+input:not([type=submit]){
+  border: 0;
+  border-bottom: 2px solid $gray-light;
+  transition: .2s;
+  border-radius: 0;
+  background: none;
+  font-family: $font-family-serif;
+  color: $gray-dark;
+  line-height: 1.5rem;
+  &:focus {
+    border-color: $brand-primary;
+    outline: none;
+  }
+  @include media-breakpoint-down(sm) {
+    line-height: 1.1rem;
   }
 }
