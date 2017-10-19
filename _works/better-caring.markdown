@@ -39,7 +39,7 @@ Better Caring offers people requiring support the freedom and flexibility to tak
 
 By introducing testimonials where the emphasis is on the support workers and benefits rather than the platform, it speaks volumes for the power of Better Caring. Pairing the testimony with a photo of the person with their support worker further humanises the story to build an emotional appeal.
 
-![Testimonial.png](/uploads/Testimonial.png)
+![Testimonial.png](/uploads/Testimonial.jpg)
 <p class="caption">One of the included testimonials</p>
 
 This appeals to the very human desire for strong relationships and aspirations of independence, resonating with both people needing support and their families. It simultaneously emphasises the difference that support workers can make in someone's life, appealing to the contractors who make up the other side of the marketplace.
