@@ -13,7 +13,7 @@
   <meta property="og:title" content="">
   
   <meta property="og:description" content="">
-  <meta property="og:url" content="/work/hey-agents/">
+  <meta property="og:url" content="http://amandagracewall.com/work/hey-agents/">
   <meta property="og:site_name" content="amanda grace – experience design">
   <meta property="og:image" content="">
   <!--favicons-->
@@ -57,13 +57,13 @@
     <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
   <li itemprop="itemListElement" itemscope
       itemtype="http://schema.org/ListItem" class="breadcrumb-item">
-    <a itemprop="item" href="/#work">
+    <a itemprop="item" href="http://amandagracewall.com/#work">
     <span itemprop="name">my work</span></a>
     <meta itemprop="position" content="1" />
   </li>
   <li itemprop="itemListElement" itemscope
       itemtype="http://schema.org/ListItem" class="breadcrumb-item active">
-    <a itemprop="item" href="/work/hey-agents/">
+    <a itemprop="item" href="http://amandagracewall.com/work/hey-agents/">
     <span itemprop="name">hey agents</span></a>
     <meta itemprop="position" content="2" />
   </li>
@@ -111,7 +111,20 @@
       <div class="row">
         <div class="col-md-10 col-lg-8 text-content">
           <img src="/assets/images/work_thumbnails/heyagents.jpg" class="block mb-5">
-          <p>While Hey Agents is still in its closed alpha, please <a href="mailto:hello@amandagracewall.com">contact me</a> to receive the PDF version of this case.</p>
+          <div class="hide-password-success">
+While Hey Agents is still in its closed alpha, please <a href="mailto:hello@amandagracewall.com">contact me</a> to receive a password to view this case.
+
+Have a password already? Enter it below:
+
+<form id="password" class="d-flex align-items-center mt-4">
+  <input class="mr-2" style="max-width: 60%" type="text" placeholder="Password" name="password" required="" />
+  <input type="hidden" name="case" value="heyagents" />
+  <input type="submit" class="btn btn-outline-primary inline-block" value="unlock" />
+</form>
+<div id="messages" class="mt-3"></div>
+</div>
+<div id="content">
+</div>
 
         </div>
       </div>
