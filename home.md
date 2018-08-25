@@ -17,8 +17,8 @@ about:
     and information design and media theory and robust full-stack experience. I particularly
     love to build narratives through technology, create accessible experiences for
     people of all backgrounds and abilities, and experiment with the intersection
-    of digital and spatial design. You can check out my latest work as the product designer at [Car Next Door]
-    (https://carnextdoor.com.au).
+    of digital and spatial design. You can check out my latest work as the product
+    designer at [Car Next Door] (https://carnextdoor.com.au).
 layout: home
 ---
 
