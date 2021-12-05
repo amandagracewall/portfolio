@@ -3,9 +3,8 @@ title: amanda grace – experience design
 date: 2017-07-24 19:11:00 +10:00
 permalink: "/"
 description: Hi, I'm Amanda Grace, and I design and develop digital experiences in
-  Sydney, Australia. I love to build narratives through technology, create accessible
-  experiences for people of all backgrounds and abilities, and experiment with the
-  intersection of digital and spatial design.
+  Sydney, Australia. I'm currently the Head of UX at Car Next Door, working hard to
+  make car sharing simple.
 hero:
   header: i build <span class="text-black">experiences </span><br>from the ground
     up.
@@ -13,12 +12,11 @@ hero:
   cta link: "#contact"
 about:
   header: hi, i'm <span class="text-black">amanda grace</span>.
-  copy: I'm a user experience engineer with a strong foundation in interaction, visual,
-    and information design and media theory and robust full-stack experience. I particularly
-    love to build narratives through technology, create accessible experiences for
-    people of all backgrounds and abilities, and experiment with the intersection
-    of digital and spatial design. You can check out my latest work as the product
-    designer at [Car Next Door] (https://carnextdoor.com.au).
+  copy: Hi! I'm Amanda Grace, a Sydney-based user experience professional with several
+    years experience designing and developing interactive solutions for startups across
+    the U.S. and Australia. I now head up the UX team at <a href="https://carnextdoor.com.au">Car
+    Next Door</a>, working hard to achieve our mission of freeing people and the planet
+    from the 'one person, one car' mentality.
 layout: home
 ---
 
