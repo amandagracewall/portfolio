@@ -1,0 +1,14 @@
+---
+title: Car Next Door
+date: 2021-12-05 14:38:00 +11:00
+thumbnail image: "/uploads/carnextdoor.jpg"
+snippet: Peer-to-peer car sharing platform and technology
+description: "[Car Next Door](https://carnextdoor.com.au) is a platform that allows
+  car owners to share their cars with vetted borrowers. It also provides in-car technology
+  that facilitates key handover and makes it easy to turn any car into a share car.
+  I've led the design of both the web and mobile applications since November 2017
+  and manage our growing team of product designers, content designers and user researchers."
+project timeframe: November 2017 – now
+company: "[Car Next Door](https://carnextdoor.com.au)"
+---
+
