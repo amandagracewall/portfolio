@@ -15,9 +15,6 @@
       <li class="nav-item">
         <a class="nav-link" href="#blog">what i think</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#contact">reach out</a>
-      </li>
     </ul>
   </div>
   </nav>
