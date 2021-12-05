@@ -12,12 +12,11 @@ hero:
   cta link: mailto:hello@amandagracewall.com
 about:
   header: hi, i'm <span class="text-black">amanda grace</span>.
-  copy: Hi! I'm Amanda Grace, a Sydney-based user experience professional with several
-    years experience designing and developing interactive solutions for startups across
-    the U.S. and Australia. I've spent the last few years leading the UX and building
-    up the team at <a href="https://carnextdoor.com.au">Car Next Door</a>, working
-    hard to achieve our mission of freeing people and the planet from the 'one person,
-    one car' mentality.
+  copy: Hi! I'm Amanda Grace – or AG for short. I'm a Sydney-based user experience
+    professional with several years experience designing and developing interactive
+    solutions for startups across the U.S. and Australia. I now lead the UX team at
+    <a href="https://carnextdoor.com.au">Car Next Door</a>, working hard to achieve
+    our mission of freeing people and the planet from the ‘one person, one car’ mentality.
 layout: home
 ---
 
