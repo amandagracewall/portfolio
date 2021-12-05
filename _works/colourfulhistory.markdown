@@ -2,6 +2,7 @@
 title: A Colorful History
 date: 2017-08-06 17:38:00 +10:00
 permalink: "/work/colorful-history/"
+published: false
 categories:
 - info
 - ui
