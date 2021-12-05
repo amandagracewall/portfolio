@@ -3,7 +3,6 @@ title: TAL
 date: 2017-10-13 18:40:00 +11:00
 permalink: "/work/tal-spotchecker/"
 categories:
-- dev
 - viz
 - ui
 position: 3
@@ -18,8 +17,8 @@ summary: TAL SpotChecker was a multi-weekend campaign to perform free skin-check
   at selected beaches across Australia. From the online booking engine to the set-up
   on the beach, the entire digital and visual experience needed to represent TAL's
   branding and high consumer protection standards.
-company: TAL via [Banter](http://banter.agency) and [We Are Visionists](http://wav.agency)
 project timeframe: Spring 2016
+company: TAL via [Banter](http://banter.agency) and [We Are Visionists](http://wav.agency)
 ---
 
 ## From booking...
