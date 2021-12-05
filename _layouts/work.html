@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  {% include head.md %}
+  <body>
+    {% include worknav.md %}
+    <section class="container text-header">
+      <h1>{{page.question}}</h1>
+      <hr class="accent">
+      <div class="row">
+        <div class="col-md-10 col-lg-8">
+          {{page.summary | markdownify}}
+          <div><label for="date" class="sr-only">Project date</label><small id="date">{{page["project timeframe"]}}</small>{% if page.company %}&emsp;|&emsp;<small style="display: inline-block">{{page.company | markdownify | remove: '<p>' | remove: '</p>'}}</small>{% endif %}</div>
+          <div class="mt-3"><small clas>{% include snippets/categories.md %}</small>
+        </div>
+      </div>
+    </section>
+    <div class="container pb-5">
+      <div class="row">
+        <div class="col-md-10 col-lg-8 text-content">
+          <img src="{{page['thumbnail image']}}" class="block mb-5">
+          {{content | markdownify}}
+        </div>
+      </div>
+    </div>
+    {% include modules/other_work.md %}
+    {% include modules/contact.md %}
+    {% include footer.md %}
+    {% include foot.md %}
+  </body>
+</html>

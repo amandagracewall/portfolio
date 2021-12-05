@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  {% include head.md %}
+  <body class="watch-scroll">
+    {% include nav.md %}
+    <div class="content">
+      <section id="hero" class="hero">
+        <div class="container">
+          <h1 class="m-0">{{page.hero.header}}</h1>
+          <!-- <div class="h1 m-0">{{page.about.subheader}}</div> -->
+          <a href="{{page.hero['cta link']}}" class="btn btn-outline-primary mt-4">{{page.hero.cta}}</a>
+        </div>
+      </section>
+      <section id="about">
+        <div class="container">
+          <div class="row d-flex" style="align-items: center">
+            <div class="col-xs-12 col-sm-4">
+              <img src="/assets/images/lego-me.gif" class="d-block mx-auto" style="width: 100%; max-width: 240px;">
+            </div>
+            <div class="col-xs-12 col-sm-8">
+                <h2>{{page.about.header}}</h2>
+                <p>{{page.about.copy | markdownify}}</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="work">
+        <div class="container">
+          <h2 class="mb-5">my <span class="text-black">work</span>.</h2>
+        </div>
+        {% include modules/filters.md %}
+        <div class="container">
+          <div class="row works">
+            {% assign sorted_works = site.works | sort:"position" %}
+            {% for work in sorted_works %}
+              {% include modules/work_card.md %}
+            {% endfor %}
+          </div>
+        </div>
+      </section>
+      <section id="blog">
+        <div class="container">
+          <h2 class="mb-5">my <span class="text-black">thoughts</span>.</h2>
+          <div class="row posts">
+            {% for post in site.posts %}
+              {% include modules/blog_card.md %}
+            {% endfor %}
+          </div>
+        </div>
+      </section>
+      {% include modules/contact.md %}
+    </div>
+    {% include footer.md %}
+    {% include foot.md %}
+  </body>
+</html>

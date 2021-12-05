@@ -1,0 +1,381 @@
+//GENERAL
+html, body {
+  overflow-x: hidden;
+}
+body {
+  padding-top: 50px;
+}
+section {
+  padding-top: 5rem;
+  padding-bottom: 6rem;
+
+  &.text-header {
+    padding-bottom: 4rem;
+  }
+  @include media-breakpoint-down(sm) {
+    &:not(.hero) {
+      padding-top: 3rem;
+      padding-bottom: 4rem;
+    }
+    &.text-header {
+      padding-bottom: 3rem;
+    }
+  }
+}
+
+.text-content{
+  .caption {
+    font-style: italic;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  img {
+    max-width: 100%;
+    margin: 1rem auto 0;
+    display: block;
+  }
+
+  h2 {
+    margin: 2rem 0 1rem;
+  }
+  h3 {
+    margin: 1.5rem 0 1rem;
+  }
+}
+
+.navbar, .breadcrumb {
+  font-family: $font-family-sans-serif;
+  font-size: .9rem;
+  a {
+    font-style: normal;
+    text-decoration: none;
+  }
+}
+
+.subheader {
+  width: 100%;
+  display: table;
+  background: darken($gray-lighter, 2%);
+}
+
+.h1 {
+  @extend h1;
+}
+
+.text-black {
+  color: $black;
+}
+
+
+hr.accent {
+  width: 40px;
+  border: 1px solid $brand-primary;
+  margin: 1rem 0;
+}
+p.large {
+  font-size: 1.2rem;
+}
+.dark {
+  background-color: $brand-inverse;
+  color: $gray-lightest;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.bg-white {
+  background: #fefefe;
+}
+
+//custom navbar
+.navbar.navbar-custom {
+  padding: 0;
+  height: 50px;
+  background: $gray-lighter;
+  // custom navbar brand
+  .navbar-brand {
+    background: $brand-primary;
+    padding: 10px;
+    width: 50px;
+    transition: .2s;
+    img {
+      height: 30px;
+      display: block;
+      margin: 0 auto;
+    }
+    &:hover {
+      background: lighten($brand-primary, 15%);
+      transition: .2s;
+    }
+  }
+  // nav-link positioning fixes
+  .collapse {
+    padding: 0 $navbar-padding-x;
+    height: 100%;
+    .nav-link, .filter {
+      padding-top: 12px;
+    }
+    @include media-breakpoint-down(sm) {
+      background: $gray-lighter;
+      padding: 1.2rem 0;
+      .navbar-nav {
+        padding: 0 1.2rem 1.2rem;
+        background: $gray-lighter;
+      }
+    }
+  }
+  // custom nav-link style
+  .nav-link, .filter {
+    border-top: 2px solid $gray-lighter;
+    color: $gray;
+    transition: .2s;
+    &.active {
+      color: $gray-dark;
+      border-top: 2px solid $brand-primary;
+    }
+  }
+  .navbar-toggler {
+    border: 0;
+    padding: 0 1rem 2px;
+    line-height: 48px;
+    &.navbar-toggler-right {
+      right: 0;
+    }
+  }
+}
+
+//custom button
+.btn {
+  font-family: $font-family-serif;
+  font-weight: normal;
+  font-style: italic;
+}
+
+//smooth headers
+h1, h2, h3, h4, h5, h6 {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h2 {
+  font-family: $font-family-sans-serif;
+}
+
+//responsive headers
+@include media-breakpoint-down(sm) {
+  h1 {
+    font-size: 1.8rem;
+    @media (max-width: 359px) {
+      font-size: 1.6rem;
+    }
+  }
+  h2 {
+    font-size: 1.4rem;
+  }
+}
+
+blockquote {
+  padding-left: 1rem;
+  border-left: 2px solid $brand-primary;
+  margin: 2rem 0;
+  font-size: 1.4rem;
+  line-height: 1.4;
+  br {
+    font-size: 1.6rem;
+  }
+}
+
+
+a {
+  transition: .2s;
+}
+
+.blog-card {
+    display: flex;
+    align-items: center;
+  .post-detail {
+    padding: 20px;
+    @include media-breakpoint-down(md) {
+      padding: 20px 35px;
+    }
+  }
+  &.card-min {
+    .post-detail {
+      padding: 20px 35p
+    }
+  }
+}
+.blog-card-link {
+  border: 2px solid $gray-lightest;
+  color: $gray-dark;
+  display: block;
+  &:hover {
+    color: $gray-dark;
+    text-decoration: none;
+    border: 2px solid $brand-primary;
+  }
+}
+
+footer {
+  padding: 15px;
+  color: $gray-lightest;
+  display: flex;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5rem;
+  span {
+    font-family: $font-family-sans-serif;
+    font-size: .9rem;
+    padding-right: 15px;
+    border-right: 2px solid $brand-primary;
+    margin-right: 15px;
+  }
+  a {
+    color: $gray-lightest;
+    transition: .2s;
+    margin-right: 10px;
+    &:hover {
+      color: $brand-primary;
+      text-decoration: none;
+    }
+  }
+
+  .icons {
+    a {
+      font-size: 1.5rem;
+      padding: 5px 7px;
+      margin-right: 0;
+      text-decoration: none;
+    }
+  }
+}
+
+*:focus {
+  outline: none;
+}
+
+body.user-is-tabbing *:focus {
+  outline: 2px solid #7AACFE !important; /* for non-webkit browsers */
+  outline: 5px auto -webkit-focus-ring-color !important;
+}
+
+ul.palette {
+  display: flex;
+  width: 100%;
+  height: 142.5px;
+  list-style-type: none;
+  margin: 20px 0 0;
+  padding: 0;
+  li {
+    flex-basis: 25%;
+    transition: .5s;
+    .swatch {
+      height: 100%;
+      width: 100%;
+      text-align: center;
+      line-height: 122.5px;
+      display: none;
+      font-family: Poppins;
+      padding: 10px;
+    }
+    &:hover {
+      position: relative;
+      top: -10px;
+      .swatch {
+        display: block;
+      }
+    }
+  }
+}
+
+.tag {
+  border-radius: 25px;
+  padding: 10px;
+  border: 1px solid $gray-lighter;
+}
+
+//phone
+.phone-shape {
+  max-width: 270px;
+  height: auto;
+  max-height: 575px;
+  border-radius: 40px;
+  border: 1px solid $gray-light;
+  padding: 60px 10px 5px;
+  position: relative;
+  margin: 20px auto;
+  .top-details {
+    position: absolute;
+    left: 0;
+    top: 17px;
+    width: 100%;
+    .camera {
+      height: 7px;
+      width: 7px;
+      margin: auto;
+    }
+    .speaker {
+      height: 7px;
+      width: 90px;
+      margin: 10px auto 0;
+    }
+  }
+  .phone-screen {
+    overflow: hidden;
+    height: 100%;
+    max-height: 440px;
+    background-color: #fff;
+    position: relative;
+    .screen {
+      overflow-y: scroll;
+      width: 100%;
+      height: 100%;
+      max-height: 440px;
+      background-color: transparent;
+      position: relative;
+      &.no-scroll {
+        overflow-y: hidden;
+      }
+      img, video {
+        display: block;
+        margin: 0;
+      }
+    }
+  }
+  .circle-button {
+    height: 40px;
+    width: 40px;
+    background: $gray-light;
+    margin: 10px auto;
+    border-radius: 100px;
+  }
+  .camera, .circle-button, .speaker {
+    border-radius: 100px;
+    display: block;
+    background-color: $gray-light;
+  }
+}
+  //hey agents sticky animation demos
+.ha-sticky {
+  position: relative;
+  .ha-sticky-header {
+    position: absolute;
+    margin: 0;
+    top: 0;
+    display: none;
+    &.stickied {
+      display: block;
+    }
+  }
+  .ha-sticky-cta {
+    position: absolute;
+    bottom: -1000px;
+    margin: 0;
+    -webkit-transition:all 1s ease;
+       -moz-transition:all 1s ease;
+        -ms-transition:all 1s ease;
+         -o-transition:all 1s ease;
+            transition:all 1s ease;
+    &.stickied {
+      bottom: 0px;
+    }
+  }
+}

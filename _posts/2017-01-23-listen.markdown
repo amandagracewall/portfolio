@@ -1,0 +1,81 @@
+---
+title: 'How to Stop Designing Stupid Products: Listen to Your User'
+date: 2017-01-23 22:11:00 +11:00
+permalink: "/blog/design-better-products-by-listening/"
+description: The best entrepreneurs don’t know better than their users – they know
+  how to listen to them. Here's some quick tips on how to improve your listening skills.
+short title: Listen to Your User
+excerpt: The best entrepreneurs don’t know better than their users – they know how
+  to listen to them.
+thumbnail image: "/assets/images/blog_thumbnails/hushme_small.jpg"
+og image: "/assets/images/blog_thumbnails/hushme.jpg"
+---
+
+> “If I had asked people what they wanted, they would have said faster horses.”<br>*Henry Ford*
+
+This quote has become motivational poster fodder, inspiring innovation for the next big thing that no one seemed to be asking for. It’s up there with Steve Jobs’ [“people don’t know what they want until we show them”](https://www.helpscout.net/blog/why-steve-jobs-never-listened-to-his-customers/) quote when defending the decision to forgo market research.
+
+> “It’s really hard to design products by focus groups. A lot of times, people don’t know what they want until you show it to them.” <br>*Steve Jobs*
+
+Maybe the average person wouldn’t have thought to ask for a motorised chunk of metal – but they were asking for faster transportation that could replace their horses, which Ford’s affordable automobile just so happened to provide.
+
+Ford clearly understood the context surrounding the desire for “faster horses” and created something to meet this underlying demand. Neither he nor Jobs created demand from thin air. Both were just perceptive, creative, and highly capable individuals. 
+
+Others might tell you that we aren’t all as insightful, creative, and highly capable as Henry Ford or Steve Jobs, therefore we should conduct market research – but that leaves even the tiniest bit of room for delusions of grandeur.
+
+Instead, I’d argue that their market research was just far more informal. Jobs has famously shunned focus groups, but he clearly was in touch with what consumers wanted through other means, even if just his own observations.
+
+Surely we all want to make products that people want, so we should take the time and effort to understand our audience’s wants and needs. Many products show a basic understanding of an untapped demand but lack the contextual awareness to make a solution desirable or accessible enough for their audience.
+
+![hoven.jpg](/uploads/hoven.jpg)
+<p class="caption">The June Oven, simplifying your oven by complicating it.</p>
+
+Case in point: the [June Oven](https://juneoven.com/). A high-tech, $1500USD toaster oven, with temperature probing, live video, and an integrated app, designed to “remove the unpredictability from cooking.” It’s an oven meant to simplify interacting with your oven… by making your oven even more complicated.
+
+Perhaps the techiest of home chefs will appreciate watching their soufflé cook via their phone rather than through the oven window, but for the average consumer, the June Oven is an over-engineered solution to an issue that isn’t large enough to justify the cost. Mark Wilson from Co.Design goes as far as calling it [“everything that’s wrong with Silicon Valley design.”](https://www.fastcodesign.com/3065667/this-1500-toaster-oven-is-everything-thats-wrong-with-silicon-valley-design)
+
+![notifications.jpg](/uploads/notifications.jpg)
+<p class="caption">Clearly much simpler than just Googling how long to cook salmon and setting a timer.</p>
+
+So how can we avoid making it onto lists of [weird](http://www.forbes.com/sites/geoffreymorrison/2017/01/14/6-of-the-weirdest-and-most-ridiculous-gadgets-from-ces-2017/#1a17f0291212) and [ridiculous](http://www.businessinsider.com/weirdest-smart-gadgets-smart-home-2016-6) products?
+
+![batman.jpg](/uploads/batman.jpg)
+<p class="caption">HushMe, for when you need to take a call, but would rather look like Bane than leave the room.</p>
+
+We avoid making stupid products by asking the right questions to get the right answers to design the right solutions. Easier said than done, right? So how do we ask the right questions? Obviously, these questions are contextual, and there shouldn’t be a definitive list, but there is a general process.
+
+## Step 1: Listen
+Before you do any asking – just listen. Listen to what people are saying. Listen to their daily experiences and their frustrations, their ideas to make things better, what they wished they had.
+
+This needn’t be face-to-face – online communities are also a great place to find these kinds of conversations. Even established companies like Nintendo claim to [“read the boards” for consumer insight](https://www.wired.com/2017/01/reggie-fils-aime-nintendo-interview/) – the internet is a great place to connect with and observe your potential market. Here are a few places to start:
+* Try looking through Reddit communities, or “subreddits” – for the uninitiated, Mashable has a useful [beginner’s guide](http://mashable.com/2012/06/06/reddit-for-beginners/#W0LZw3L6TEqd) and [tips for marketers](http://mashable.com/2012/07/19/reddit-for-marketers/#utopNJo1TaqE).
+* Use a news aggregator like [Feedly](https://feedly.com/) to stay on top of relevant publications and blogs.
+* Scan through product reviews for similar products on Amazon and other review aggregators.
+
+## Step 2: Ask
+Now that you’ve identified some issues, dig a bit deeper into the context. There’s an entire narrative surrounding a single issue, so find it by using your 5Ws:
+
+### Who
+What kind of people are having this issue? Not just demographics, ask them about their lives. The more you understand about their lives, the better you can create solutions that fit into them. If you don’t have concrete examples to work with, use your imagination and [create some basic user personas](https://xtensio.com/how-to-create-a-persona/).
+
+### What
+What is the issue? What is it that they want? As we’ve already established, people aren’t always the best at articulating what exactly it is that they want. So divide the different aspects of wanting: What do they want that they don’t have? What do they have that they don’t want? What do they have that they don’t want to lose?
+
+### Why
+  Then, break down the “whats” further by asking “why.” Why is this an issue? Why would your life be better without this issue? Why is that important to you? These questions can help you understand the personal values of your market, and guide you toward or away from some solutions.
+
+### When / Where
+When did they realise the issue? When does the issue occur? Where does it occur? [Create some basic storyboards](http://johnnyholland.org/2011/10/storyboarding-ux-part-1-an-introduction/) to pinpoint where the issue begins, or if drawing isn’t your thing, write a short story of sorts. Incorporate your personas to breathe some life into them and create more realistic scenarios.
+
+![comic.jpg](/uploads/comic.jpg)
+<p class="caption">What your storyboard could look like. If you can draw. Results may vary.</p>
+
+## Step 3: Solve
+Now that you’ve gotten this far, you’ve probably already started brainstorming – how you can intercept the friction points that cause the issue, what features would solve other issues that have come up during your research, why certain solutions might not fit into your target consumer’s life.
+
+Build off of these initial ideas, prototype them, get feedback. Don’t stop listening and asking, but stay focused on the original issue and keep your objective well-defined to avoid feature creep. People may say that they want all of these features, but once wallets come out, they might not actually want to pay for all of them.
+
+![coolest.jpg](/uploads/coolest.jpg)
+<p class="caption">The Coolest may be the “coolest cooler” with all of these features – but its reasonable Kickstarter price was <a href="http://mashable.com/2016/04/16/coolest-cooler-money/">too good to be true</a>.</p>
+
+This step can be difficult, time-consuming, physically and emotionally draining, but it’s also the fun part. Here is where your creativity can shine. So go turn those “faster horses” into something cool and inventive, but most importantly, into something people actually want.
