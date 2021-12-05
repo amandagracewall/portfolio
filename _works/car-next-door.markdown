@@ -25,4 +25,3 @@ project timeframe: November 2017 – now
 company: "[Car Next Door](https://carnextdoor.com.au)"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kqHBwgsEgxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
