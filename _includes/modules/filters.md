@@ -11,9 +11,6 @@
         <a class="filter" role="button" data-category="viz">visual</a>
       </li>
       <li class="nav-item">
-        <a class="filter" role="button" data-category="info">info<span class="hidden-xs-down">rmation</span></a>
-      </li>
-      <li class="nav-item">
         <a class="filter" role="button" data-category="dev">dev<span class="hidden-xs-down">elopment</span></a>
       </li>
     </ul>
