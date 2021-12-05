@@ -2,6 +2,7 @@
 title: Helga's
 date: 2017-10-13 19:48:00 +11:00
 permalink: "/work/helgas-sandwiches/"
+published: false
 categories:
 - dev
 - viz
@@ -20,9 +21,9 @@ summary: Helga's Say It With Sandwiches campaign delivered hundreds of gourmet s
   of kindness. The $6 sandwiches were sold via a Shopify microsite to raise money
   for Food Bank Australia, and a virtual sandwich maker allowed people to show they
   care outside of the delivery zones.
+project timeframe: Winter 2016
 company: Helga's Continental Bakehouse via [Hausmann](http://www.hausmann.com.au)
   and [We Are Visionists](http://wav.agency)
-project timeframe: Winter 2016
 ---
 
 To spread the love (and deliver the sandwiches), Helga's needed to securely collect payment and recipient info. This e-commerce solution was implemented through a branded Shopify theme with custom functionality.
