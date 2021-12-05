@@ -2,6 +2,7 @@
 title: Gnibl Box
 date: 2017-10-14 12:30:00 +11:00
 permalink: "/work/gnibl-box/"
+published: false
 categories:
 - ui
 - viz
