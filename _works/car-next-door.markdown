@@ -1,6 +1,9 @@
 ---
 title: Car Next Door
 date: 2021-12-05 14:38:00 +11:00
+tags:
+- ui
+- dev
 thumbnail image: "/uploads/carnextdoor.jpg"
 snippet: Peer-to-peer car sharing platform and technology
 description: "[Car Next Door](https://carnextdoor.com.au) is a platform that allows
