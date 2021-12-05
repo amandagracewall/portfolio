@@ -9,14 +9,15 @@ hero:
   header: i build <span class="text-black">experiences </span><br>from the ground
     up.
   cta: get in touch
-  cta link: "#contact"
+  cta link: mailto:hello@amandagracewall.com
 about:
   header: hi, i'm <span class="text-black">amanda grace</span>.
   copy: Hi! I'm Amanda Grace, a Sydney-based user experience professional with several
     years experience designing and developing interactive solutions for startups across
-    the U.S. and Australia. I now head up the UX team at <a href="https://carnextdoor.com.au">Car
-    Next Door</a>, working hard to achieve our mission of freeing people and the planet
-    from the 'one person, one car' mentality.
+    the U.S. and Australia. I've spent the last few years leading the UX and building
+    up the team at <a href="https://carnextdoor.com.au">Car Next Door</a>, working
+    hard to achieve our mission of freeing people and the planet from the 'one person,
+    one car' mentality.
 layout: home
 ---
 
