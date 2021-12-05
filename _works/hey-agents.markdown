@@ -4,7 +4,6 @@ date: 2017-10-13 11:44:00 +11:00
 permalink: "/work/hey-agents/"
 categories:
 - dev
-- info
 - ui
 position: 1
 thumbnail image: "/assets/images/work_thumbnails/heyagents.jpg"
