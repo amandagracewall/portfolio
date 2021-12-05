@@ -5,7 +5,7 @@ categories:
 - ui
 - dev
 thumbnail image: "/uploads/carnextdoor.jpg"
-snippet: Peer-to-peer car sharing platform and technology
+snippet: Australia's largest peer-to-peer car sharing platform
 description: "[Car Next Door](https://carnextdoor.com.au) is a platform that allows
   car owners to share their cars with vetted borrowers. It also provides in-car technology
   that facilitates key handover and makes it easy to turn any car into a share car.

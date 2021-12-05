@@ -2,6 +2,7 @@
 title: Activity Buzz
 date: 2017-08-06 17:38:00 +10:00
 permalink: "/work/activity-buzz/"
+published: false
 categories:
 - viz
 position: 8
