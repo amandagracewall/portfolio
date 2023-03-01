@@ -5,7 +5,7 @@ permalink: "/work/car-next-door"
 categories:
 - ui
 - dev
-thumbnail image: "/uploads/carnextdoor.jpg"
+thumbnail image: "/uploads/ucs.jpg"
 snippet: Australia's largest peer-to-peer car sharing platform
 description: Car Next Door is a platform that allows car owners to share their cars
   with vetted borrowers using in-car technology that facilitates key handover. By
