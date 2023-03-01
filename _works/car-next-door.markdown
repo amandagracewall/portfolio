@@ -1,7 +1,7 @@
 ---
 title: Uber Carshare
 date: 2021-12-05 14:38:00 +11:00
-permalink: "/work/car-next-door"
+permalink: "/work/uber-carshare"
 categories:
 - ui
 - dev
