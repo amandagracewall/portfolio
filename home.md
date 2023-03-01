@@ -2,9 +2,9 @@
 title: amanda grace – experience design
 date: 2017-07-24 19:11:00 +10:00
 permalink: "/"
-description: Hi, I'm Amanda Grace, and I design and develop digital experiences in
-  Sydney, Australia. I'm currently the Head of Product and UX at Uber Carshare, working
-  hard to make car sharing simple.
+description: Hi, I'm Amanda Grace, and I lead teams that design and develop digital
+  solutions that solve real-world problems. I'm currently the Head of Product and
+  UX at Uber Carshare, working hard to make car sharing simple.
 hero:
   header: i build <span class="text-black">experiences </span><br>from the ground
     up.
