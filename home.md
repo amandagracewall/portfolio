@@ -13,11 +13,11 @@ hero:
 about:
   header: hi, i'm <span class="text-black">amanda grace</span>.
   copy: Hi! I'm Amanda Grace – or AG for short. I'm a Sydney-based user experience
-    professional with several years experience designing and developing interactive
-    solutions for startups across the U.S. and Australia. I now lead the UX and Product
-    teams at <a href="https://ubercarshare.com">Uber Carshare</a>, working hard to
-    achieve our mission of freeing people and the planet from the ‘one person, one
-    car’ mentality.
+    and product professional with several years experience designing and developing
+    interactive solutions for startups across the U.S. and Australia. I now lead the
+    UX and Product teams at <a href="https://ubercarshare.com">Uber Carshare</a>,
+    working hard to achieve our mission of freeing people and the planet from the
+    ‘one person, one car’ mentality.
 layout: home
 ---
 
